@@ -23,33 +23,42 @@ Immediately win the game by fulfilling one of the 3 victory conditions:
 3. On the central board, place **2 Fellowship Units** on Arnor and **2 Sauron Units** on Mordor.
 
 4. Assemble the **Quest of the Ring track** as shown in the diagram to the right,and place it below the central board.
+   
+> image of an arrow facing downwards pointing to the Quest of the Ring track placed below thecentral board.
 
-5. The Fellowship player takes **3 Coins** while the Sauron player takes **2 Coins**.
+6. The Fellowship player takes **3 Coins** while the Sauron player takes **2 Coins**.
    Then make a **reserve** with the remaining Coins.
 
-6. Sort the **Alliance tokens** according to their backs, to make one stack per Race. Shuffle each stack separately
+7. Sort the **Alliance tokens** according to their backs, to make one stack per Race. Shuffle each stack separately
    and place them, facedown, above the central board, in the dedicated notches.
 
-7. Shuffle the **Landmark tiles** and place 3, faceup, on the table. Make a stack, facedown, with the remaining tiles.
+8. Shuffle the **Landmark tiles** and place 3, faceup, on the table. Make a stack, facedown, with the remaining tiles.
 
-8. Sort the **Chapter cards** into 3 decks according to the runes on their backs (1), (2) and (3), then shuffle
+9. Sort the **Chapter cards** into 3 decks according to the runes on their backs (1), (2) and (3), then shuffle
    each deck separately.
 
-## CHAPTER OVERVIEW
+## CHAPTER OVERVIEW (page 3)
 
-### Preparing a chapter
+### Preparing a chapter (page 3)
 
 At the start of each chapter (1, 2, then 3), place cards from the corresponding chapter **in the central play area**,
 following the diagram below (reminder on the sides of the box). Be careful, since certain cards are placed faceup
 and others facedown. Place the 3 remaining cards, facedown, in the discard.
 
-> 
+> tan and dark brown cards arranged in 3 segments. First in, upward pyramid form , second in downward pyramid form and thirdly both small upward and and downward pyramid form. Each arranged card is labelled chapter 1-3. 
 
-### Turn overview (page 3)
+## Turn overview (page 3)
 The Sauron player begins the game, then both players **take turns** , until the end of the game.
 On your turn, you may either **take a Chapter card** or **take a Landmark tile**.
 
-## B. Take a Landmark tile
+#### A. Take a Chapter card
+
+From the central play area, choose an **available** card,meaning one that is not partially covered by any other cards.
+Then, play it in front of you or discard it.
+
+> tan full brown cards with green check marks arangd in rows mixed with dark brown cards. 
+
+#### B. Take a Landmark tile
 
 Choose one of the faceup tiles. Pay its cost ( _see page 4_ ) and place it in your play area.
 Immediately place a Fortress pawn on the corresponding region of the central board and benefit
@@ -57,6 +66,7 @@ from its other effects ( _see the Player Aid_ ).
 Finally, end your turn without revealing a new tile.
 
 Finally, end your turn by revealing any cards that are now available.
+
 
 ## End of a chapter
 
@@ -68,11 +78,6 @@ Then continue the game as normal.
 _Note: Since you alternate taking turns, the player who ends a chapter does not begin the next one, unless they are using
 a “Take another turn” effect (see the Player Aid)._
 
-## A. Take a Chapter card
-
-From the central play area, choose an **available** card,
-meaning one that is not partially covered by any other cards.
-Then, play it in front of you **or** discard it.
 
 
 ## Play the card in front of you
