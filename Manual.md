@@ -2,21 +2,18 @@
 ## OVERVIEW AND GOAL (page 1)
 
 A game plays over 3 successive chapters that unfold similarly.
-On your turn, strengthen your Skills, hoard your treasure, stretch your presence across Middle-earth,
-rally Races to your cause, or advance the Quest of the Ring.
+On your turn, strengthen your Skills, hoard your treasure, stretch your presence across Middle-earth, rally Races to your cause, or advance the Quest of the Ring.
 
 Immediately win the game by fulfilling one of the 3 victory conditions:
 -  complete the Quest of the Ring,
 -  rally the support of 6 different Races, 
 -  conquer Middle-earth.
 
-
 ## SETUP (page 2)
 
-> Quest of a Ring central board , a track below the board , Souran units on the right side of the board and fellowship unit at the left side of the board , alliance tokens directly at the upper part of the board , landmark tiles directly above the alliance tokens with a golden coins at each sides of the board.Each item on the board is numbered from 1-8  
+> Quest of a Ring central board, a track below the board, Souran units on the right side of the board and fellowship unit at the left side of the board, Alliance tokens directly at the upper part of the board, Landmark tiles directly above the alliance tokens with a golden coins at each sides of the board.Each item on the board is numbered from 1-8.  
 
-1. Choose, or randomly determine, who will play as the Fellowship and who will play as Sauron.
-   Place your respective **Unit and Fortress pawns** in front of you.
+1. Choose, or randomly determine, who will play as the Fellowship and who will play as Sauron. Place your respective **Unit  and Fortress pawns** in front of you.
 
 2. Place the **central board** between you and your opponent, next to the central play area.
 
@@ -26,8 +23,8 @@ Immediately win the game by fulfilling one of the 3 victory conditions:
    
 > image of an arrow facing downwards pointing to the Quest of the Ring track placed below thecentral board.
 
-6. The Fellowship player takes **3 Coins** while the Sauron player takes **2 Coins**.
-   Then make a **reserve** with the remaining Coins.
+6. The Fellowship player takes **3 Coins** while the Sauron player takes **2 Coins**.Then make a **reserve** with the 
+   remaining Coins.
 
 7. Sort the **Alliance tokens** according to their backs, to make one stack per Race. Shuffle each stack separately
    and place them, facedown, above the central board, in the dedicated notches.
@@ -45,28 +42,38 @@ At the start of each chapter (1, 2, then 3), place cards from the corresponding 
 following the diagram below (reminder on the sides of the box). Be careful, since certain cards are placed faceup
 and others facedown. Place the 3 remaining cards, facedown, in the discard.
 
-> tan and dark brown cards arranged in 3 segments. First in, upward pyramid form , second in downward pyramid form and thirdly both small upward and and downward pyramid form. Each arranged card is labelled chapter 1-3. 
+> tan and dark brown cards arranged in 3 segments. First in, upward pyramid form, second in downward pyramid form and thirdly both small upward and and downward pyramid form. Each arranged card is labelled chapter 1-3. 
 
-## Turn overview (page 3)
-The Sauron player begins the game, then both players **take turns** , until the end of the game.
-On your turn, you may either **take a Chapter card** or **take a Landmark tile**.
+### Turn overview (page 3)
+The Sauron player begins the game, then both players **take turns**, until the end of the game.On your turn, you may either **take a Chapter card** or **take a Landmark tile**.
 
-#### A. Take a Chapter card
+#### A. Take a Chapter card (page 3)
 
-From the central play area, choose an **available** card,meaning one that is not partially covered by any other cards.
+From the central play area, choose an **available** card, meaning one that is not partially covered by any other cards.
 Then, play it in front of you or discard it.
 
-> tan full brown cards with green check marks arangd in rows mixed with dark brown cards. 
+> tan full brown cards with green check marks arrangd in rows mixed with dark brown cards.
 
-#### B. Take a Landmark tile
+## PLAY THE CARD IN FRONT OF YOU (page 3)
 
-Choose one of the faceup tiles. Pay its cost ( _see page 4_ ) and place it in your play area.
-Immediately place a Fortress pawn on the corresponding region of the central board and benefit
-from its other effects ( _see the Player Aid_ ).
-Finally, end your turn without revealing a new tile.
+Pay the card cost, if any ( see page 4 ), and place it in your play area. You may immediately benefit from its effect ( see page 5 ).
+***Note: Stack cards in front of you by color, making sure you can still see their effects.***
+
+**or**
+
+## DISCARD THE CARD (page 3)
+
+Place the card, facedown, in the discard and take as many Coins from the reserve as the current chapter:
+- Chapter 1: 1 Coin
+- Chapter 2: 2 Coins
+- Chapter 3: 3 Coins
 
 Finally, end your turn by revealing any cards that are now available.
 
+#### B. Take a Landmark tile (page 3)
+
+Choose one of the faceup tiles. Pay its cost ( _see page 4_ ) and place it in your play area. Immediately place a Fortress pawn on the corresponding region of the central board and benefit from its other effects ( _see the Player Aid_ ).
+Finally, end your turn without revealing a new tile.
 
 ## End of a chapter
 
@@ -80,25 +87,8 @@ a “Take another turn” effect (see the Player Aid)._
 
 
 
-## Play the card in front of you
 
-```
-Pay the card cost, if any ( see page 4 ), and place it
-in your play area. You may immediately benefit
-from its effect ( see page 5 ).
-Note: Stack cards in front of you by color, making sure
-you can still see their effects.
-```
-## Discard the card
 
-```
-Place the card, facedown, in the discard
-and take as many Coins from the reserve
-as the current chapter:
-Chapter 1: 1 Coin
-Chapter 2: 2 Coins
-Chapter 3: 3 Coins
-```
 
 
 ```
