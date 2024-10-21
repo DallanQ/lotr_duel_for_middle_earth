@@ -2,14 +2,12 @@
 ## OVERVIEW AND GOAL (page 1)
 
 A game plays over 3 successive chapters that unfold similarly.
-On your turn, strengthen your Skills, hoard your treasure, stretch your presence across Middle-earth,
-rally Races to your cause, or advance the Quest of the Ring.
+On your turn, strengthen your Skills, hoard your treasure, stretch your presence across Middle-earth, rally Races to your cause, or advance the Quest of the Ring.
 
 Immediately win the game by fulfilling one of the 3 victory conditions:
 -  complete the Quest of the Ring,
 -  rally the support of 6 different Races, 
 -  conquer Middle-earth.
-
 
 ## SETUP (page 2)
 
@@ -25,8 +23,8 @@ Immediately win the game by fulfilling one of the 3 victory conditions:
    
 > image of an arrow facing downwards showing how the track pieces fit together. 
 
-6. The Fellowship player takes **3 Coins** while the Sauron player takes **2 Coins**.
-   Then make a **reserve** with the remaining Coins.
+6. The Fellowship player takes **3 Coins** while the Sauron player takes **2 Coins**.Then make a **reserve** with the 
+   remaining Coins.
 
 7. Sort the **Alliance tokens** according to their backs, to make one stack per Race. Shuffle each stack separately and place them, facedown, above the central board, in the dedicated notches.
 
@@ -43,7 +41,7 @@ At the start of each chapter (1, 2, then 3), place cards from the corresponding 
 ### Turn overview (page 3)
 The Sauron player begins the game, then both players **take turns** , until the end of the game. On your turn, you may either **take a Chapter card** or **take a Landmark tile**.
 
-#### A. Take a Chapter card
+#### A. Take a Chapter card (page 3)
 
 From the central play area, choose an **available** card, meaning one that is not partially covered by any other cards. Then, play it in front of you or discard it.
 
@@ -58,9 +56,9 @@ Note: Stock cards in front of you by color, making sure you can steill see their
 
 Place the card, facedown, in the discard and take as many Coins from the reserve as the current chapter.
 
--Chapter 1: 1 Coin
--Chapter 2: 2 Coins
--Chapter 3: 3 Coins
+- Chapter 1: 1 Coin
+- Chapter 2: 2 Coins
+- Chapter 3: 3 Coins
 
 tan and brown cards arranged in rows. Green checks showing available cards.
 
@@ -72,9 +70,6 @@ Choose one of the faceup tiles. Pay its cost (see page 4) and place it in your p
 Immediately place a Fortress pawn on the corresponding region of the central board and benefit from its other effects (see the Player Aid).
 Finally, end your turn without revealing a new tile.
 
-Finally, end your turn without revealing a new tile.
-
-
 ### End of a chapter (page3)
 
 A chapter ends **once the final card of this chapter has been taken**.
@@ -83,7 +78,7 @@ Then continue the game as normal.
 
 Note: Since you alternate taking turns, the player who ends a chapter does not begin the next one, unless they are using a “Take another turn” effect (see the Player Aid).
 
-## Play the card in front of you
+In order to play them, certain cards have a Coin cost that you must pay to the reserve.
 
 Pay the card cost, if any ( see page 4 ), and place it
 in your play area. You may immediately benefit
@@ -101,32 +96,29 @@ Chapter 2: 2 Coins
 Chapter 3: 3 Coins
 ```
 
+In order to play them, tiles and the majority of cards require you to have one or more Skills ( _see page 5_ ) in your play area. If you do not have the required Skills, you may pay **1 Coin** to the reserve **per missing Skill symbol**.
 
-```
-Available
-card
-```
-```
-Chapter 1 Chapter 2 Chapter 3
-```
-```
-Faceup
-card
-```
-```
-Facedown
-card
-```
-## or
+> a red chapter card with a rectangle in the middle of the card  with 3 circles. The first circle has a two coloured face, the second has a hand and the third has a love with a red arrow peirced through. Below the rectangle is a beast. 
 
+_Notes:_
+-_There is no limit to the number of Skills you may pay for, to the reserve, on your turn._
+-_If a card does not require a Skill or a Coin, it has no cost, so you may play it for free._
 
-## 2
+> 
+Landmark tiles have an additional Coin cost equal to the number of **your Fortress pawns** already on the central board.
+Therefore, the additional cost of your first tile is 0 Coins.
+>
 
-## 1 3 4
+### Chaining
+
+Starting in chapter 2, certain cards may be played for free through their **chaining symbol**. If you have, in your play area, a card with a matching symbol in its top-right corner, you may play the card for free, without having the required Skills.
+
+_Note: If you do not have the matching chaining symbol for a card, you may still play it normally by paying its Skill
+and/or Coin cost._
 
 _Example:_
 
-```
+> 
 In chapter 1, you play
 ```
 ## this card for free 1.
@@ -151,37 +143,12 @@ to have the required Skills
 ```
 ## symbol)^4.
 
-## Chaining
 
-Starting in chapter 2, certain cards may be played for free through their **chaining symbol**.
-If you have, in your play area, a card with a matching symbol in its top-right corner, you may play the card for free,
-without having the required Skills.
 
-_Note: If you do not have the matching chaining symbol for a card, you may still play it normally by paying its Skill
-and/or Coin cost._
 
 ```
-Landmark tiles have an additional Coin cost equal to the number
-of your Fortress pawns already on the central board.
-Therefore, the additional cost of your first tile is 0 Coins.
-```
-## Skills
 
-In order to play them, tiles and the majority of cards require you to have one
-or more Skills ( _see page 5_ ) in your play area.
-If you do not have the required Skills, you may pay **1 Coin** to the reserve
-**per missing Skill symbol**.
 
-## Coins
-
-In order to play them, certain cards have a Coin cost that you must pay to the reserve.
-
-_Notes:_
-
-_- There is no limit to the number of Skills you may pay for, to the reserve, on your turn.
-- If a card does not require a Skill or a Coin, it has no cost, so you may play it for free._
-
-# CARD AND TILE COSTS
 
 
 # CARD AND TILE EFFECTS
