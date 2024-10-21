@@ -1,133 +1,51 @@
-## Will you play as the Fellowship of the Ring to defend the free races and destroy the One Ring?
 
-## Or will you play as Sauron and pursue Frodo and Sam while deploying your hordes
-
-## to the gates of the enemy cities? The destiny of Middle-earth is in your hands!
-
-# OVERVIEW AND GOAL
-
-# CONTENTS
+## OVERVIEW AND GOAL (page 1)
 
 A game plays over 3 successive chapters that unfold similarly.
 On your turn, strengthen your Skills, hoard your treasure, stretch your presence across Middle-earth,
 rally Races to your cause, or advance the Quest of the Ring.
 
 Immediately win the game by fulfilling one of the 3 victory conditions:
-complete the Quest of the Ring,
-ally the support of 6 different Races, r
-conquer Middle-earth.
+-  complete the Quest of the Ring,
+-  rally the support of 6 different Races, 
+-  conquer Middle-earth.
 
-```
-Chapter cards Landmark tiles Central board Quest
-of the Ring track
-```
-```
-Coins
-```
-```
-Alliance tokens Units and Fortresses
-for the Fellowship
-```
-```
-Units and Fortresses
-for Sauron
-```
-```
-Player Aid Rulebook
-```
-```
-×69 ×7 ×1 in 4 pieces ×
-```
-```
-×18 (3 per Race) ×15 ×15×7 ×7 ×1 ×
-```
-## Colorblind symbols
 
-```
-To accommodate every type of colorblindness, each card color in the game
-has a corresponding symbol:
-Grey Yellow Blue Green Red Purple
-```
-```
-Watch
-the rules video!
-```
+## SETUP (page 2)
 
-## 1 1
+> Quest of a Ring central board , a track below the board , Souran units on the right side of the board and fellowship unit at the left side of the board , alliance tokens directly at the upper part of the board , landmark tiles directly above the alliance tokens with a golden coins at each sides of the board.Each item on the board is numbered from 1-8  
 
-## 2
+1. Choose, or randomly determine, who will play as the Fellowship and who will play as Sauron.
+   Place your respective **Unit and Fortress pawns** in front of you.
 
-## 3
+2. Place the **central board** between you and your opponent, next to the central play area.
 
-## 3
+3. On the central board, place **2 Fellowship Units** on Arnor and **2 Sauron Units** on Mordor.
 
-## 6
+4. Assemble the **Quest of the Ring track** as shown in the diagram to the right,and place it below the central board.
 
-## 7
+5. The Fellowship player takes **3 Coins** while the Sauron player takes **2 Coins**.
+   Then make a **reserve** with the remaining Coins.
 
-## 4
+6. Sort the **Alliance tokens** according to their backs, to make one stack per Race. Shuffle each stack separately
+   and place them, facedown, above the central board, in the dedicated notches.
 
-## 5
+7. Shuffle the **Landmark tiles** and place 3, faceup, on the table. Make a stack, facedown, with the remaining tiles.
 
-## 5
+8. Sort the **Chapter cards** into 3 decks according to the runes on their backs (1), (2) and (3), then shuffle
+   each deck separately.
 
-## 5 8
+## CHAPTER OVERVIEW
 
-```
-Fellowship
-of the Ring
-play area
-```
-```
-Sauron
-play area
-```
-```
-Discard
-```
-```
-Central
-play area
-```
-# SETUP
+### Preparing a chapter
 
-## 1 2 3 4 5 6 7
+At the start of each chapter (1, 2, then 3), place cards from the corresponding chapter **in the central play area**,
+following the diagram below (reminder on the sides of the box). Be careful, since certain cards are placed faceup
+and others facedown. Place the 3 remaining cards, facedown, in the discard.
 
-```
-Choose, or randomly determine, who will play as the Fellowship and who will play as Sauron.
-Place your respective Unit and Fortress pawns in front of you.
-```
-```
-Place the central board between you and your opponent, next to the central play area.
-```
-```
-On the central board, place 2 Fellowship Units on Arnor and 2 Sauron Units on Mordor.
-```
-```
-Assemble the Quest of the Ring track
-as shown in the diagram to the right,
-and place it below the central board.
-```
-```
-The Fellowship player takes 3 Coins while the Sauron player takes 2 Coins.
-Then make a reserve with the remaining Coins.
-```
-```
-Sort the Alliance tokens according to their backs, to make one stack per Race. Shuffle each stack separately
-and place them, facedown, above the central board, in the dedicated notches.
-```
-```
-Shuffle the Landmark tiles and place 3, faceup, on the table. Make a stack, facedown, with the remaining tiles.
-```
-## 8
+> 
 
-```
-Sort the Chapter cards into 3 decks according to the runes on their backs (1), (2) and (3), then shuffle
-each deck separately.
-```
-
-## Turn overview
-
+### Turn overview (page 3)
 The Sauron player begins the game, then both players **take turns** , until the end of the game.
 On your turn, you may either **take a Chapter card** or **take a Landmark tile**.
 
@@ -156,11 +74,6 @@ From the central play area, choose an **available** card,
 meaning one that is not partially covered by any other cards.
 Then, play it in front of you **or** discard it.
 
-## Preparing a chapter
-
-At the start of each chapter (1, 2, then 3), place cards from the corresponding chapter **in the central play area** ,
-following the diagram below ( _reminder on the sides of the box_ ). Be careful, since certain cards are placed faceup
-and others facedown. Place the 3 remaining cards, facedown, in the discard.
 
 ## Play the card in front of you
 
@@ -181,7 +94,7 @@ Chapter 1: 1 Coin
 Chapter 2: 2 Coins
 Chapter 3: 3 Coins
 ```
-# CHAPTER OVERVIEW
+
 
 ```
 Available
