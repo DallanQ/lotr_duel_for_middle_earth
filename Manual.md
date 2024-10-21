@@ -55,14 +55,12 @@ Then, play it in front of you or discard it.
 > tan full brown cards with green check marks arrangd in rows mixed with dark brown cards.
 
 ## PLAY THE CARD IN FRONT OF YOU (page 3)
-
 Pay the card cost, if any ( see page 4 ), and place it in your play area. You may immediately benefit from its effect ( see page 5 ).
-***Note: Stack cards in front of you by color, making sure you can still see their effects.***
+_Note: Stack cards in front of you by color, making sure you can still see their effects._
 
 **or**
 
 ## DISCARD THE CARD (page 3)
-
 Place the card, facedown, in the discard and take as many Coins from the reserve as the current chapter:
 - Chapter 1: 1 Coin
 - Chapter 2: 2 Coins
@@ -71,51 +69,48 @@ Place the card, facedown, in the discard and take as many Coins from the reserve
 Finally, end your turn by revealing any cards that are now available.
 
 #### B. Take a Landmark tile (page 3)
-
 Choose one of the faceup tiles. Pay its cost ( _see page 4_ ) and place it in your play area. Immediately place a Fortress pawn on the corresponding region of the central board and benefit from its other effects ( _see the Player Aid_ ).
 Finally, end your turn without revealing a new tile.
 
-## End of a chapter
-
-A chapter ends **once the final card of this chapter has been taken**.
-Set up the cards for the next chapter according to the corresponding diagram and reveal new Landmark tiles
-until there are, if possible, 3 faceup.
-Then continue the game as normal.
+### End of a chapter (page 3)
+A chapter ends **once the final card of this chapter has been taken**. Set up the cards for the next chapter according to the corresponding diagram and reveal new Landmark tiles until there are, if possible, 3 faceup. Then continue the game as normal.
 
 _Note: Since you alternate taking turns, the player who ends a chapter does not begin the next one, unless they are using
 a “Take another turn” effect (see the Player Aid)._
 
+## CARD AND TILE COST (Page 4)
 
+### Coins (page 4)
 
+In order to play them, certain cards have a Coin cost that you must pay to the reserve.
 
+> image of a blue chapter card with a golden ring above a square which has 1 coin in it and a demon sqatting directly below the square.
 
+### Skills (page 4)
 
+In order to play them, tiles and the majority of cards require you to have one or more Skills ( _see page 5_ ) in your play area. If you do not have the required Skills, you may pay **1 Coin** to the reserve **per missing Skill symbol**.
 
-```
-Available
-card
-```
-```
-Chapter 1 Chapter 2 Chapter 3
-```
-```
-Faceup
-card
-```
-```
-Facedown
-card
-```
-## or
+> a red chapter card with a rectangle in the middle of the card  with 3 circles. The first circle has a two coloured face, the second has a hand and the third has a love with a red arrow peirced through. Below the rectangle is a beast. 
 
+_Notes:_
+-_There is no limit to the number of Skills you may pay for, to the reserve, on your turn._
+-_If a card does not require a Skill or a Coin, it has no cost, so you may play it for free._
 
-## 2
+> 
+Landmark tiles have an additional Coin cost equal to the number of **your Fortress pawns** already on the central board.
+Therefore, the additional cost of your first tile is 0 Coins.
+>
 
-## 1 3 4
+### Chaining
+
+Starting in chapter 2, certain cards may be played for free through their **chaining symbol**. If you have, in your play area, a card with a matching symbol in its top-right corner, you may play the card for free, without having the required Skills.
+
+_Note: If you do not have the matching chaining symbol for a card, you may still play it normally by paying its Skill
+and/or Coin cost._
 
 _Example:_
 
-```
+> 
 In chapter 1, you play
 ```
 ## this card for free 1.
@@ -140,37 +135,12 @@ to have the required Skills
 ```
 ## symbol)^4.
 
-## Chaining
 
-Starting in chapter 2, certain cards may be played for free through their **chaining symbol**.
-If you have, in your play area, a card with a matching symbol in its top-right corner, you may play the card for free,
-without having the required Skills.
 
-_Note: If you do not have the matching chaining symbol for a card, you may still play it normally by paying its Skill
-and/or Coin cost._
 
 ```
-Landmark tiles have an additional Coin cost equal to the number
-of your Fortress pawns already on the central board.
-Therefore, the additional cost of your first tile is 0 Coins.
-```
-## Skills
 
-In order to play them, tiles and the majority of cards require you to have one
-or more Skills ( _see page 5_ ) in your play area.
-If you do not have the required Skills, you may pay **1 Coin** to the reserve
-**per missing Skill symbol**.
 
-## Coins
-
-In order to play them, certain cards have a Coin cost that you must pay to the reserve.
-
-_Notes:_
-
-_- There is no limit to the number of Skills you may pay for, to the reserve, on your turn.
-- If a card does not require a Skill or a Coin, it has no cost, so you may play it for free._
-
-# CARD AND TILE COSTS
 
 
 # CARD AND TILE EFFECTS
