@@ -55,7 +55,7 @@ Pay the card cost, if any (see page 4), and place it in your pay area. You may i
 
 *Note: Stack cards in front of you by color, making sure you can steill see their effects.*
 
-**OR**
+**or**
 
 ##### DISCARD THE CARD (page3)
 
