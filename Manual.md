@@ -23,8 +23,7 @@ Immediately win the game by fulfilling one of the 3 victory conditions:
    
 > image of an arrow facing downwards showing how the track pieces fit together. 
 
-5. The Fellowship player takes **3 Coins** while the Sauron player takes **2 Coins**.Then make a **reserve** with the 
-   remaining Coins.
+5. The Fellowship player takes **3 Coins** while the Sauron player takes **2 Coins**.Then make a **reserve** with the remaining Coins.
 
 6. Sort the **Alliance tokens** according to their backs, to make one stack per Race. Shuffle each stack separately and place them, facedown, above the central board, in the dedicated notches.
 
