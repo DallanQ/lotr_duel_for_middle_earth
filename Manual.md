@@ -23,13 +23,15 @@ Immediately win the game by fulfilling one of the 3 victory conditions:
    
 > image of an arrow facing downwards showing how the track pieces fit together. 
 
-6. The Fellowship player takes **3 Coins** while the Sauron player takes **2 Coins**.Then make a **reserve** with the 
+5. The Fellowship player takes **3 Coins** while the Sauron player takes **2 Coins**.Then make a **reserve** with the 
    remaining Coins.
 
-7. Sort the **Alliance tokens** according to their backs, to make one stack per Race. Shuffle each stack separately and place them, facedown, above the central board, in the dedicated notches.
+6. Sort the **Alliance tokens** according to their backs, to make one stack per Race. Shuffle each stack separately and place them, facedown, above the central board, in the dedicated notches.
 
-8. Shuffle the **Landmark tiles** and place 3, faceup, on the table. Make a stack, facedown, with the remaining tiles.
+7. Shuffle the **Landmark tiles** and place 3, faceup, on the table. Make a stack, facedown, with the remaining tiles.
 
+8. Sort the Chapter cards into 3 decks according to the runes on their backs P (1), R (2), q (3), then shuffle each deck seperately.
+ 
 ## CHAPTER OVERVIEW (page 3)
 
 ### Preparing a chapter (page 3)
@@ -39,20 +41,23 @@ At the start of each chapter (1, 2, then 3), place cards from the corresponding 
 > tan and dark brown cards arranged in 3 sections. First in, upward pyramid form, second in downward pyramid form and thirdly both small upward and and downward pyramid form. Each arranged card is labelled chapter 1-3. 
 
 ### Turn overview (page 3)
+
 The Sauron player begins the game, then both players **take turns** , until the end of the game. On your turn, you may either **take a Chapter card** or **take a Landmark tile**.
 
 #### A. Take a Chapter card (page 3)
 
 From the central play area, choose an **available** card, meaning one that is not partially covered by any other cards. Then, play it in front of you or discard it.
 
-#####PLAY THE CARD IN FRONT OF YOU (PAGE 3)
+> tan and brown cards arranged in rows. With a green mark check showing the available cards.
+
+##### PLAY THE CARD IN FRONT OF YOU (PAGE 3)
 Pay the card cost, if any (see page 4), and place it in your pay area. You may immediately benefit from its effect. (see page 5). 
 
-Note: Stock cards in front of you by color, making sure you can steill see their effects.
+*Note: Stack cards in front of you by color, making sure you can steill see their effects.*
 
 **OR**
 
-#####DISCARD THE CARD (page3)
+##### DISCARD THE CARD (page3)
 
 Place the card, facedown, in the discard and take as many Coins from the reserve as the current chapter.
 
@@ -60,14 +65,12 @@ Place the card, facedown, in the discard and take as many Coins from the reserve
 - Chapter 2: 2 Coins
 - Chapter 3: 3 Coins
 
-tan and brown cards arranged in rows. Green checks showing available cards.
-
 Finally end your turn by revealing any cards that are now available. 
 
 #### B. Take a Landmark tile (page 3)
 
 Choose one of the faceup tiles. Pay its cost (see page 4) and place it in your play area.
-Immediately place a Fortress pawn on the corresponding region of the central board and benefit from its other effects (see the Player Aid).
+Immediately place a Fortress pawn on the corresponding region of the central board and benefit from its other effects *(see the Player Aid).*
 Finally, end your turn without revealing a new tile.
 
 ### End of a chapter (page3)
@@ -76,25 +79,10 @@ A chapter ends **once the final card of this chapter has been taken**.
 Set up the cards for the next chapter according to the corresponding diagram and reveal new Landmark tiles until there are, if possible, 3 faceup.
 Then continue the game as normal.
 
-Note: Since you alternate taking turns, the player who ends a chapter does not begin the next one, unless they are using a “Take another turn” effect (see the Player Aid).
+*Note: Since you alternate taking turns, the player who ends a chapter does not begin the next one, unless they are using a “Take another turn” effect (see the Player Aid).*
 
+## CARDS AND TILES COSTS
 In order to play them, certain cards have a Coin cost that you must pay to the reserve.
-
-Pay the card cost, if any ( see page 4 ), and place it
-in your play area. You may immediately benefit
-from its effect ( see page 5 ).
-Note: Stack cards in front of you by color, making sure
-you can still see their effects.
-
-## Discard the card
-
-Place the card, facedown, in the discard
-and take as many Coins from the reserve
-as the current chapter:
-Chapter 1: 1 Coin
-Chapter 2: 2 Coins
-Chapter 3: 3 Coins
-```
 
 In order to play them, tiles and the majority of cards require you to have one or more Skills ( _see page 5_ ) in your play area. If you do not have the required Skills, you may pay **1 Coin** to the reserve **per missing Skill symbol**.
 
