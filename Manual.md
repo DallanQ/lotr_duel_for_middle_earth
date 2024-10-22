@@ -55,7 +55,7 @@ Pay the card cost, if any (see page 4), and place it in your pay area. You may i
 
 *Note: Stack cards in front of you by color, making sure you can steill see their effects.*
 
-**OR**
+**Or**
 
 ##### DISCARD THE CARD (page3)
 
@@ -120,7 +120,7 @@ In addition to its effect (see page 5), it has a chaining symbol 2.
 > a chapter card with 4 icons at the top, with a white square symbol labelled 3  and a white rectangle symbol with 3 icons on it labelled 4 below it. Below are warriors on the tower in the rain.
 
 In chapter 2, you may play this card for free since you have the matching chaining symbol 3 on one of your played cards.
-Otherwise, you would need to have the required Skills (or pay 1 Coin per missing Skil  symbol) 4.
+Otherwise, you would need to have the required Skills (or pay 1 Coin per missing Skill symbol) 4.
 
 
 ## CARD AND TILE EFFECTS
