@@ -11,7 +11,7 @@ Immediately win the game by fulfilling one of the 3 victory conditions:
 
 ## SETUP (page 2)
 
-> Quest of a Ring central board, a track below the board, Souran units on the right side of the board and fellowship unit at the left side of the board, alliance tokens directly at the upper part of the board, landmark tiles directly above the alliance tokens with a golden coins at each sides of the board. Each item on the board is numbered from 1-8  
+> Quest of a Ring central board, a track below the board, Souran units on the right side of the board and Fellowship unit at the left side of the board, Alliance tokens directly at the upper part of the board, Landmark tiles directly above the Alliance tokens with a golden coins at each sides of the board. Each item on the board is numbered from 1-8  
 
 1. Choose, or randomly determine, who will play as the Fellowship and who will play as Sauron. Place your respective **Unit and Fortress pawns** in front of you.
 
@@ -50,6 +50,7 @@ From the central play area, choose an **available** card, meaning one that is no
 > tan and brown cards arranged in rows. With a green mark check showing the available cards.
 
 ##### PLAY THE CARD IN FRONT OF YOU (PAGE 3)
+
 Pay the card cost, if any (see page 4), and place it in your pay area. You may immediately benefit from its effect. (see page 5). 
 
 *Note: Stack cards in front of you by color, making sure you can steill see their effects.*
@@ -80,65 +81,49 @@ Then continue the game as normal.
 
 *Note: Since you alternate taking turns, the player who ends a chapter does not begin the next one, unless they are using a “Take another turn” effect (see the Player Aid).*
 
-## CARDS AND TILES COSTS
+## CARDS AND TILES COSTS (page 4)
+
+### Coins (page 4)
 In order to play them, certain cards have a Coin cost that you must pay to the reserve.
 
-In order to play them, tiles and the majority of cards require you to have one or more Skills ( _see page 5_ ) in your play area. If you do not have the required Skills, you may pay **1 Coin** to the reserve **per missing Skill symbol**.
+> a blue chater card with a gold ring at the top. A white blie square at the center of te card with a 1 coin on it. Below the square is a demon squatting.
 
-> a red chapter card with a rectangle in the middle of the card  with 3 circles. The first circle has a two coloured face, the second has a hand and the third has a love with a red arrow peirced through. Below the rectangle is a beast. 
+In order to play them, tiles and the majority of cards require you to have one or more Skills ( _see page 5_ ) in your play area. If you do not have the required Skills, you may pay **1 Coin** to the reserve **per missing Skill symbol.**
 
-_Notes:_
--_There is no limit to the number of Skills you may pay for, to the reserve, on your turn._
--_If a card does not require a Skill or a Coin, it has no cost, so you may play it for free._
+> a red chapter card with a white rectangle in the middle of the card  with 3 icons. The first icon has a two coloured face, the second has a hand and the third has a love with a red arrow peirced through. Below the rectangle is a beast. 
 
-> 
+*Notes:*
+- *There is no limit to the number of Skills you may pay for, to the reserve, on your turn.*
+- *If a card does not require a Skill or a Coin, it has no cost, so you may play it for free.*
+
+> a yellow circle with a pawn on it.
+
 Landmark tiles have an additional Coin cost equal to the number of **your Fortress pawns** already on the central board.
 Therefore, the additional cost of your first tile is 0 Coins.
->
 
-### Chaining
+> A white square  with a yellow circle that has a pawn on it. 3 love icon, with a 2 crown icon and a book icon. Directly below it is a grey tower pointing to a brown box with a stack card pointing to a card with an x on it.
+
+### Chaining (page 4)
 
 Starting in chapter 2, certain cards may be played for free through their **chaining symbol**. If you have, in your play area, a card with a matching symbol in its top-right corner, you may play the card for free, without having the required Skills.
 
-_Note: If you do not have the matching chaining symbol for a card, you may still play it normally by paying its Skill
-and/or Coin cost._
+*Note: If you do not have the matching chaining symbol for a card, you may still play it normally by paying its Skill
+and/or Coin cost.*
 
-_Example:_
+*Example:*
 
-> 
-In chapter 1, you play
-```
-## this card for free 1.
+>  a chapter card with 3 icons and a white box on the right corner of the card labelled 2 on thetop of the square. A white rectangle below the icons with 1 labelled bellow. Directly below the rectangle are warriors fighting.
 
-```
-In addition to its effect
-(see page 5), it has a chaining
-```
-## symbol^2.
+In chapter 1, you play this card for free 1.
+In addition to its effect (see page 5), it has a chaining symbol 2.
 
-```
-In chapter 2, you may play this
-card for free since you have
-```
-## the matching chaining symbol^3
+> a chapter card with 4 icons at the top, with a white square symbol labelled 3  and a white rectangle symbol with 3 icons on it labelled 4 below it. Below are warriors on the tower in the rain.
 
-```
-on one of your played cards.
-Otherwise, you would need
-to have the required Skills
-(or pay 1 Coin per missing Skill
-```
-## symbol)^4.
+In chapter 2, you may play this card for free since you have the matching chaining symbol 3 on one of your played cards.
+Otherwise, you would need to have the required Skills (or pay 1 Coin per missing Skil  symbol) 4.
 
 
-
-
-```
-
-
-
-
-# CARD AND TILE EFFECTS
+## CARD AND TILE EFFECTS
 
 ```
 Grey cards provide Skills that let you play other cards and tiles in your play area.
