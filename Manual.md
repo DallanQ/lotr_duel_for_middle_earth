@@ -11,7 +11,7 @@ Immediately win the game by fulfilling one of the 3 victory conditions:
 
 ## SETUP (page 2)
 
-> Quest of a Ring central board, a track below the board, Souran units on the right side of the board and Fellowship unit at the left side of the board, Alliance tokens directly at the upper part of the board, Landmark tiles directly above the Alliance tokens with a golden coins at each sides of the board. Each item on the board is numbered from 1-8  
+> an image of a Quest of a Ring central board, a track below the board, Souran units on the right side of the board and Fellowship unit at the left side of the board, Alliance tokens directly at the upper part of the board, Landmark tiles directly above the Alliance tokens with a golden coins at each sides of the board. Each item on the board is numbered from 1-8  
 
 1. Choose, or randomly determine, who will play as the Fellowship and who will play as Sauron. Place your respective **Unit and Fortress pawns** in front of you.
 
@@ -37,7 +37,7 @@ Immediately win the game by fulfilling one of the 3 victory conditions:
 
 At the start of each chapter (1, 2, then 3), place cards from the corresponding chapter **in the central play area**, following the diagram below (reminder on the sides of the box). Be careful, since certain cards are placed faceup and others facedown. Place the 3 remaining cards, facedown, in the discard.
 
-> tan and dark brown cards arranged in 3 sections. First in, upward pyramid form, second in downward pyramid form and thirdly both small upward and and downward pyramid form. Each arranged card is labelled chapter 1-3. 
+> image of a tan and dark brown cards arranged in 3 sections. First in, upward pyramid form, second in downward pyramid form and thirdly both small upward and and downward pyramid form. Each arranged card is labelled chapter 1-3. 
 
 ### Turn overview (page 3)
 
@@ -47,11 +47,12 @@ The Sauron player begins the game, then both players **take turns** , until the 
 
 From the central play area, choose an **available** card, meaning one that is not partially covered by any other cards. Then, play it in front of you or discard it.
 
-> tan and brown cards arranged in rows. With a green mark check showing the available cards.
+> image of a tan and brown cards arranged in rows. With a green mark check showing the available cards.
 
 ##### PLAY THE CARD IN FRONT OF YOU (PAGE 3)
 
-Pay the card cost, if any (see page 4), and place it in your pay area. You may immediately benefit from its effect. (see page 5). 
+Pay the card cost, if any (see page 4), and place it in your pay area. You may immediately benefit from its effect. 
+(see page 5). 
 
 *Note: Stack cards in front of you by color, making sure you can steill see their effects.*
 
@@ -76,8 +77,7 @@ Finally, end your turn without revealing a new tile.
 ### End of a chapter (page3)
 
 A chapter ends **once the final card of this chapter has been taken**.
-Set up the cards for the next chapter according to the corresponding diagram and reveal new Landmark tiles until there are, if possible, 3 faceup.
-Then continue the game as normal.
+Set up the cards for the next chapter according to the corresponding diagram and reveal new Landmark tiles until there are, if possible, 3 faceup. Then continue the game as normal.
 
 *Note: Since you alternate taking turns, the player who ends a chapter does not begin the next one, unless they are using a “Take another turn” effect (see the Player Aid).*
 
@@ -86,22 +86,24 @@ Then continue the game as normal.
 ### Coins (page 4)
 In order to play them, certain cards have a Coin cost that you must pay to the reserve.
 
-> a blue chater card with a gold ring at the top. A white blie square at the center of te card with a 1 coin on it. Below the square is a demon squatting.
+> image of a blue chapter card with a gold ring at the top. A white square at the center of the card with a coin on it.
 
-In order to play them, tiles and the majority of cards require you to have one or more Skills ( _see page 5_ ) in your play area. If you do not have the required Skills, you may pay **1 Coin** to the reserve **per missing Skill symbol.**
+### Skills (page 4)
 
-> a red chapter card with a white rectangle in the middle of the card  with 3 icons. The first icon has a two coloured face, the second has a hand and the third has a love with a red arrow peirced through. Below the rectangle is a beast. 
+In order to play them, tiles and the majority of cards require you to have one or more Skills (see page 5) in your play area. If you do not have the required Skills, you may pay **1 Coin** to the reserve **per missing Skill symbol.**
 
-*Notes:*
-- *There is no limit to the number of Skills you may pay for, to the reserve, on your turn.*
-- *If a card does not require a Skill or a Coin, it has no cost, so you may play it for free.*
+> image of a red chapter card with a white rectangle in the middle of the card  with 3 icons. The first icon has a two coloured face, the second has a hand  which is strength and the third icon which is courage. Below the rectangle is a beast. 
 
-> a yellow circle with a pawn on it.
+*Notes*:
+- *There is no limit to the number of Skills you may pay for, to the reserve, on your turn*.
+- *If a card does not require a Skill or a Coin, it has no cost, so you may play it for free*.
+
+> image of a yellow circle with a castle on it.
 
 Landmark tiles have an additional Coin cost equal to the number of **your Fortress pawns** already on the central board.
 Therefore, the additional cost of your first tile is 0 Coins.
 
-> A white square  with a yellow circle that has a pawn on it. 3 love icon, with a 2 crown icon and a book icon. Directly below it is a grey tower pointing to a brown box with a stack card pointing to a card with an x on it.
+> image of a  white square  with a yellow circle that has a castle on it, and 3 strength icon, with a 2 crown icon and a book icon. Directly below it is a grey castle pointing to a brown scroll with stack cards pointing to a card with a lost coin on it.
 
 ### Chaining (page 4)
 
@@ -112,31 +114,36 @@ and/or Coin cost.*
 
 *Example:*
 
->  a chapter card with 3 icons and a white box on the right corner of the card labelled 2 on thetop of the square. A white rectangle below the icons with 1 labelled bellow. Directly below the rectangle are warriors fighting.
+> image of a chapter card with 3 icons and a white box on the right corner of the card labelled 2 on the top of the square. A white rectangle below the icons with 1 labelled below. Directly below the rectangle are warriors fighting.
 
-In chapter 1, you play this card for free 1.
-In addition to its effect (see page 5), it has a chaining symbol 2.
+*In chapter 1, you play this card for free 1*.
+*In addition to its effect (see page 5), it has a chaining symbol 2*.
 
-> a chapter card with 4 icons at the top, with a white square symbol labelled 3  and a white rectangle symbol with 3 icons on it labelled 4 below it. Below are warriors on the tower in the rain.
+> image of a chapter card with 4 icons at the top, with a white square symbol labelled 3 and a white rectangle symbol with 3 icons on it labelled 4 below. Below are warriors on the castle in the rain.
 
 In chapter 2, you may play this card for free since you have the matching chaining symbol 3 on one of your played cards.
 Otherwise, you would need to have the required Skills (or pay 1 Coin per missing Skill symbol) 4.
 
+## CARD AND TILE EFFECTS (page 5)
 
-## CARD AND TILE EFFECTS
+Grey cards (image of a diamond) provide Skills that let you play other cards and tiles in your play area.
+You gain **1 Skill per symbol** shown. Each symbol may only be used **once per turn**, on each of your turns.
 
+> image of a Ruse icon, Strength icon,  Courage icon, Knowledge icon, Leadership icon.
+
+(image of a knowledge icon/ and a leadership icon) When multiple Skills are separated by a /, you may only use **one of them** per turn (you choose).
+
+**Yellow cards** () immediately provide Coins that you will be able to spend to play other cards and tiles
+in your play area.
+
+Take, from the reserve, the number of Coins shown in the symbol.
 ```
-Grey cards provide Skills that let you play other cards and tiles in your play area.
-You gain 1 Skill per symbol shown. Each symbol may only be used once per turn , on each of your turns.
+```
+Blue cards immediately let you advance on the Quest of the Ring track.
 ```
 ```
-Ruse Strength Courage Knowledge Leadership
-```
-```
-When multiple Skills are separated by a , you may only use one of them per turn (you choose).
-```
-```
-Green cards epresent the Races of Middle-earth with whom you may ally.r
+
+Green cards epresent the Races of Middle-earth with whom you may ally.r.
 ```
 ```
 Elves Ents Hobbits Humans Dwarves Wizards
@@ -172,16 +179,7 @@ from unique effects ( see the Player Aid ).
 Region where you may place a Fortress
 ```
 ```
-Yellow cards immediately provide Coins that you will be able to spend to play other cards and tiles
-in your play area.
-```
-```
-Take, from the reserve, the number of Coins shown in the symbol.
-```
-```
-Blue cards immediately let you advance on the Quest of the Ring track.
-```
-```
+
 Move your character along the Quest of the Ring track, one space per Ring symbol.
 ```
 
