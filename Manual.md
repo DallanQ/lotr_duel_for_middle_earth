@@ -29,7 +29,7 @@ Immediately win the game by fulfilling one of the 3 victory conditions:
 
 7. Shuffle the **Landmark tiles** and place 3, faceup, on the table. Make a stack, facedown, with the remaining tiles.
 
-8. Sort the Chapter cards into 3 decks according to the runes on their backs P (1), R (2), q (3), then shuffle each deck seperately.
+8. Sort the **Chapter cards** into 3 decks according to the runes on their backs P (1), R (2), q (3), then shuffle each deck seperately.
  
 ## CHAPTER OVERVIEW (page 3)
 
@@ -77,7 +77,8 @@ Finally, end your turn without revealing a new tile.
 ### End of a chapter (page3)
 
 A chapter ends **once the final card of this chapter has been taken**.
-Set up the cards for the next chapter according to the corresponding diagram and reveal new Landmark tiles until there are, if possible, 3 faceup. Then continue the game as normal.
+Set up the cards for the next chapter according to the corresponding diagram and reveal new Landmark tiles until there are, if possible, 3 faceup. 
+Then continue the game as normal.
 
 *Note: Since you alternate taking turns, the player who ends a chapter does not begin the next one, unless they are using a “Take another turn” effect (see the Player Aid).*
 
@@ -90,20 +91,16 @@ In order to play them, certain cards have a Coin cost that you must pay to the r
 
 ### Skills (page 4)
 
-In order to play them, tiles and the majority of cards require you to have one or more Skills (see page 5) in your play area. If you do not have the required Skills, you may pay **1 Coin** to the reserve **per missing Skill symbol.**
+In order to play them, tiles and the majority of cards require you to have one or more Skills (*see page 5*) in your play area. If you do not have the required Skills, you may pay **1 Coin** to the reserve **per missing Skill symbol**.
 
-> image of a red chapter card with a white rectangle in the middle of the card  with 3 icons. The first icon has a two coloured face, the second has a hand  which is strength and the third icon which is courage. Below the rectangle is a beast. 
+> image of a red chapter card with a white rectangle in the middle of the card  with 3 icons. The first icon is a face with two colours black and white which is a Ruse, the second is Strength icon and the third is Courage icon. 
 
 *Notes*:
 - *There is no limit to the number of Skills you may pay for, to the reserve, on your turn*.
 - *If a card does not require a Skill or a Coin, it has no cost, so you may play it for free*.
 
-> image of a yellow circle with a castle on it.
-
-Landmark tiles have an additional Coin cost equal to the number of **your Fortress pawns** already on the central board.
-Therefore, the additional cost of your first tile is 0 Coins.
-
-> image of a  white square  with a yellow circle that has a castle on it, and 3 strength icon, with a 2 crown icon and a book icon. Directly below it is a grey castle pointing to a brown scroll with stack cards pointing to a card with a lost coin on it.
+(image of a yellow circle icon with a castle on it). Landmark tiles have an additional Coin cost equal to the number of **your Fortress pawns** already on the central board.Therefore, the additional cost of your first tile is 0 Coins.
+(image of a  white square  with a yellow circle that has a castle on it, and 3 strength icon, with a 2 crown icon and a book icon. Directly below it is a grey castle pointing to a brown scroll with stack cards pointing to a card with a lost coin on it.)
 
 ### Chaining (page 4)
 
@@ -114,7 +111,7 @@ and/or Coin cost.*
 
 *Example:*
 
-> image of a chapter card with 3 icons and a white box on the right corner of the card labelled 2 on the top of the square. A white rectangle below the icons with 1 labelled below. Directly below the rectangle are warriors fighting.
+> image of a chapter card with 3 icons and a white square on the right corner of the card labelled 2 on the top of the card. A white rectangle below the icons with 1 labelled below.
 
 *In chapter 1, you play this card for free 1*.
 *In addition to its effect (see page 5), it has a chaining symbol 2*.
@@ -126,7 +123,7 @@ Otherwise, you would need to have the required Skills (or pay 1 Coin per missing
 
 ## CARD AND TILE EFFECTS (page 5)
 
-Grey cards (image of a diamond) provide Skills that let you play other cards and tiles in your play area.
+Grey cards (> image of a Rhombus) provide Skills that let you play other cards and tiles in your play area.
 You gain **1 Skill per symbol** shown. Each symbol may only be used **once per turn**, on each of your turns.
 
 > image of a Ruse icon, Strength icon,  Courage icon, Knowledge icon, Leadership icon.
