@@ -130,77 +130,54 @@ You gain **1 Skill per symbol** shown. Each symbol may only be used **once per t
 
 (image of a knowledge icon/ and a leadership icon) When multiple Skills are separated by a /, you may only use **one of them** per turn (you choose).
 
-**Yellow cards** () immediately provide Coins that you will be able to spend to play other cards and tiles
+**Yellow cards** (image of a circle) immediately provide Coins that you will be able to spend to play other cards and tiles
 in your play area.
 
-Take, from the reserve, the number of Coins shown in the symbol.
-```
-```
-Blue cards immediately let you advance on the Quest of the Ring track.
-```
-```
+(an image of a coin with 2 on it) Take, from the reserve, the number of Coins shown in the symbol.
 
-Green cards epresent the Races of Middle-earth with whom you may ally.r.
-```
-```
-Elves Ents Hobbits Humans Dwarves Wizards
-```
-```
-Red cards immediately let you place Units in the regions of Middle-earth ( see page 7 ).
-Choose one of the two regions shown by the banners and place all Units in the chosen region.
-Number of Units to place
-```
-```
-Choice of regions where you may place Units
-```
-```
-Purple cards (only available in chapter 3) immediately let you complete various maneuvers.
-```
-```
-Move 1 of your Units
-to an adjacent region.
-```
-```
-Your opponent loses
-1 Coin.
-```
-```
-Remove 1 enemy Unit
-from any region.
-```
-```
-Landmark tiles immediately let you place Fortresses in regions of Middle-earth ( see page 7 ) and benefit
-from unique effects ( see the Player Aid ).
-```
-```
-Region where you may place a Fortress
-```
-```
+**Blue cards** (image of aa yellow card) immediately let you advance on the Quest of the Ring track.
 
-Move your character along the Quest of the Ring track, one space per Ring symbol.
-```
+(image of a golden ring) Move your character along the Quest of the Ring track, one space per Ring symbol.
 
-## 2
 
-## 3
+**Green cards** (image of a yellow triangle) represent the Races of Middle-earth with whom you may ally.
 
-## 1
+(Elves Ents Hobbits Humans Dwarves Wizards)
 
-## 2
+**Red cards** (image of a star) immediately let you place Units in the regions of Middle-earth (see page 7).
+Choose **one of the two regions** shown by the banners and place **all Units** in the chosen region.
 
-```
-Bonus spaces
-```
-```
-The One Ring Mount Doom
-```
-```
-Frodo and Sam’s
-starting space
-```
-```
+*Number of Units to place*
+
+*Choice of regions where you may place Units*
+
+**Purple cards** (image of a star) (only available in chapter 3) immediately let you complete various maneuvers.
+
+Move 1 of your Units to an adjacent region.
+
+Your opponent loses 1 Coin.
+
+Remove 1 enemy Unit from any region.
+
+**Landmark tiles** immediately let you place Fortresses in regions of Middle-earth (see page 7) and benefit
+from unique effects *(see the Player Aid)*.
+
+*Region where you may place a Fortress*
+
+> image of a Quest Ring Track with lots of labelled arrows.
+
+When you advance on the Quest of the Ring track, slide your character (Frodo and Sam for the Fellowship or the Nazgûl for Sauron) from space to space.
+
+When you **reach or pass** a Bonus space, you may immediately benefit from its effect (*see the Player Aid*).
+
+*Note: The piece that represents the Nazgûl is placed on top of the piece that represents Frodo and Sam. Therefore, when Frodo
+and Sam move, the Nazgûl automatically moves as well. In other words, the distance between the characters will
+only decrease, never increase*.
+
+> image of a blue chapter card with with 2 gold rings at the upper part of it followed by 2 strength icons and a 
+
 Example: As the Fellowship player, you play a Blue card
-```
+
 ## with 2 Rings 1 that lets you move Frodo and Sam
 
 ## 2 spaces 2. They pass a Bonus space^3 , which lets you
@@ -209,14 +186,10 @@ Example: As the Fellowship player, you play a Blue card
 benefit from its effect (in this case, take 1 Coin
 from the reserve).
 ```
-When you advance on the Quest of the Ring track, slide your character ( _Frodo and Sam_ for the Fellowship
-or _the Nazgûl_ for Sauron) from space to space.
 
-When you **reach or pass** a Bonus space, you may immediately benefit from its effect ( _see the Player Aid_ ).
 
-_Note: The piece that represents the Nazgûl is placed on top of the piece that represents Frodo and Sam. Therefore, when Frodo
-and Sam move, the Nazgûl automatically moves as well. In other words, the distance between the characters will
-only decrease, never increase._
+
+
 
 During the game, you may form alliances with the Races of Middle-earth. To do this, in your play area,
 play **Green cards** with matching or different Race symbols, according to the following conditions:
