@@ -123,64 +123,54 @@ Otherwise, you would need to have the required Skills (or pay 1 Coin per missing
 
 ## CARD AND TILE EFFECTS (page 5)
 
-Grey cards (> image of a Rhombus) provide Skills that let you play other cards and tiles in your play area.
+- **Grey cards** (> image of a Rhombus) provide Skills that let you play other cards and tiles in your play area.
 You gain **1 Skill per symbol** shown. Each symbol may only be used **once per turn**, on each of your turns.
 
 > image of a Ruse icon, Strength icon,  Courage icon, Knowledge icon, Leadership icon.
 
 (image of a knowledge icon/ and a leadership icon) When multiple Skills are separated by a /, you may only use **one of them** per turn (you choose).
 
-**Yellow cards** (image of a circle) immediately provide Coins that you will be able to spend to play other cards and tiles
+- **Yellow cards** (image of a circle) immediately provide Coins that you will be able to spend to play other cards and tiles
 in your play area.
 
 (an image of a coin with 2 on it) Take, from the reserve, the number of Coins shown in the symbol.
 
-**Blue cards** (image of aa yellow card) immediately let you advance on the Quest of the Ring track.
+- **Blue cards** (image of aa yellow card) immediately let you advance on the Quest of the Ring track.
 
 (image of a golden ring) Move your character along the Quest of the Ring track, one space per Ring symbol.
 
+- **Green cards** (image of a yellow triangle) represent the Races of Middle-earth with whom you may ally.
 
-**Green cards** (image of a yellow triangle) represent the Races of Middle-earth with whom you may ally.
+> image of an Elves icon, Ents icon, Hobbits icon, Humans icon, Dwarves icon, Wizards icon).
 
-(Elves Ents Hobbits Humans Dwarves Wizards)
-
-**Red cards** (image of a star) immediately let you place Units in the regions of Middle-earth (see page 7).
+- **Red cards** (image of a yellow X) immediately let you place Units in the regions of Middle-earth (see page 7).
 Choose **one of the two regions** shown by the banners and place **all Units** in the chosen region.
 
-*Number of Units to place*
+> icon of a blue banner icon with an arror below showing the *choice of region where you may place units*, a hand icon with a 2 on it and an arrow at the top showing the *Number of Units to place*. A purple banner icon
 
-*Choice of regions where you may place Units*
+- **Purple cards** (image of a star) (only available in chapter 3) immediately let you complete various maneuvers.
 
-**Purple cards** (image of a star) (only available in chapter 3) immediately let you complete various maneuvers.
+(image of an arror) Move 1 of your Units to an adjacent region. (image of a coin wih a red X on it), Your opponent loses 1 Coin.
+(image of a hand icon with red X on it), Remove 1 enemy Unit from any region.
 
-Move 1 of your Units to an adjacent region.
+- **Landmark tiles** immediately let you place Fortresses in regions of Middle-earth (see page 7) and benefit from unique effects *(see the Player Aid)*.
 
-Your opponent loses 1 Coin.
+> image of a castle pointing to a brown banner with an arror showing the *Region where you may place a Fortress*
 
-Remove 1 enemy Unit from any region.
+## QUEST OF THE RING
 
-**Landmark tiles** immediately let you place Fortresses in regions of Middle-earth (see page 7) and benefit
-from unique effects *(see the Player Aid)*.
-
-*Region where you may place a Fortress*
-
-> image of a Quest Ring Track with lots of labelled arrows.
+> image of a Quest Ring Track with icons at the lower part with lots of labelled arrows.
 
 When you advance on the Quest of the Ring track, slide your character (Frodo and Sam for the Fellowship or the Nazgûl for Sauron) from space to space.
-
 When you **reach or pass** a Bonus space, you may immediately benefit from its effect (*see the Player Aid*).
 
 *Note: The piece that represents the Nazgûl is placed on top of the piece that represents Frodo and Sam. Therefore, when Frodo
 and Sam move, the Nazgûl automatically moves as well. In other words, the distance between the characters will
 only decrease, never increase*.
 
-> image of a blue chapter card with with 2 gold rings at the upper part of it followed by 2 strength icons and a 
+> image of a blue chapter card with 2 gold rings at the upper part of it followed by 2 strength icons and a knowledge icon below it alongside a track with a red "X" which marks the starting point on the left. There’s a yellow-highlighted circle labeled "1", with arrows and numbers "2" and "3" around it, suggesting a sequence of moves. Frodo and Sam are positioned above this yellow circle, indicating the current position on the track. The background is a mountainous landscape. 
 
-Example: As the Fellowship player, you play a Blue card
-
-## with 2 Rings 1 that lets you move Frodo and Sam
-
-## 2 spaces 2. They pass a Bonus space^3 , which lets you
+Example: As the Fellowship player, you play a Blue card with 2 Rings^1 that lets you move Frodo and Sam 2 spaces^2. They pass a Bonus space^3 , which lets you
 
 ```
 benefit from its effect (in this case, take 1 Coin
