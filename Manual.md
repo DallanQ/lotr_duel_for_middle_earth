@@ -11,7 +11,7 @@ Immediately win the game by fulfilling one of the 3 victory conditions:
 
 ## SETUP (page 2)
 
-> an image of a Quest of a Ring central board, a track below the board, Souran units on the right side of the board and Fellowship unit at the left side of the board, Alliance tokens directly at the upper part of the board, Landmark tiles directly above the Alliance tokens with a golden coins at each sides of the board. Each item on the board is numbered from 1-8  
+> an image of a Quest of a Ring central board, a track below the board, Souran units on the right side of the board and Fellowship unit on the left side of the board, Alliance tokens directly at the upper part of the board, Landmark tiles directly above the Alliance tokens with a golden coins at each sides of the board. Each item on the board is numbered from 1-8  
 
 1. Choose, or randomly determine, who will play as the Fellowship and who will play as Sauron. Place your respective **Unit and Fortress pawns** in front of you.
 
@@ -41,7 +41,7 @@ At the start of each chapter (1, 2, then 3), place cards from the corresponding 
 
 ### Turn overview (page 3)
 
-The Sauron player begins the game, then both players **take turns** , until the end of the game. On your turn, you may either **take a Chapter card** or **take a Landmark tile**.
+The Sauron player begins the game, then both players **take turns**, until the end of the game. On your turn, you may either **take a Chapter card** or **take a Landmark tile**.
 
 #### A. Take a Chapter card (page 3)
 
@@ -157,7 +157,7 @@ Choose **one of the two regions** shown by the banners and place **all Units** i
 
 > image of a castle pointing to a brown banner with an arror showing the *Region where you may place a Fortress*
 
-## QUEST OF THE RING
+## QUEST OF THE RING (page 6)
 
 > image of a Quest Ring Track with icons at the lower part with lots of labelled arrows.
 
@@ -165,148 +165,66 @@ When you advance on the Quest of the Ring track, slide your character (Frodo and
 When you **reach or pass** a Bonus space, you may immediately benefit from its effect (*see the Player Aid*).
 
 *Note: The piece that represents the Nazgûl is placed on top of the piece that represents Frodo and Sam. Therefore, when Frodo
-and Sam move, the Nazgûl automatically moves as well. In other words, the distance between the characters will
-only decrease, never increase*.
+and Sam move, the Nazgûl automatically moves as well. In other words, the distance between the characters will only decrease, never increase*.
 
 > image of a blue chapter card with 2 gold rings at the upper part of it followed by 2 strength icons and a knowledge icon below it alongside a track with a red "X" which marks the starting point on the left. There’s a yellow-highlighted circle labeled "1", with arrows and numbers "2" and "3" around it, suggesting a sequence of moves. Frodo and Sam are positioned above this yellow circle, indicating the current position on the track. The background is a mountainous landscape. 
 
-Example: As the Fellowship player, you play a Blue card with 2 Rings^1 that lets you move Frodo and Sam 2 spaces^2. They pass a Bonus space^3 , which lets you
+*Example: As the Fellowship player, you play a Blue card with 2 Rings^1 that lets you move Frodo and Sam 2 spaces 2. They pass a Bonus space 3, which lets you benefit from its effect (in this case, take 1 Coin from the reserve)*.
 
-```
-benefit from its effect (in this case, take 1 Coin
-from the reserve).
-```
+## RACE ALLIANCES (page 6)
 
+During the game, you may form alliances with the Races of Middle-earth. To do this, in your play area, play **Green cards** with matching or different Race symbols, according to the following conditions:
 
+##### MARCHING RACE SYMBOLS (page 6)
 
+As soon as you have 2 matching Race symbols, take the top 2 Alliance tokens of this Race and **reveal them**.
+Choose 1 to place in front of you; you may now benefit from its effect (*see the Player Aid*). Put the other token, facedown, on **top** of its stack.
 
+**or**
 
-During the game, you may form alliances with the Races of Middle-earth. To do this, in your play area,
-play **Green cards** with matching or different Race symbols, according to the following conditions:
+##### 3 DIFFERENT RACE SYMBOLS (page 6)
+**Once per game**, when you have 3 different Race symbols, take the top Alliance token of each of these 3 Races and **reveal them**. Choose 1 to place in front of you; you may now benefit from its effect (*see the Player Aid*).
+Put the other 2 tokens, facedown, on top of their respective stacks.
 
-_Notes:_
+*Notes*:
 
-_- A single Race symbol may be used for both conditions (2 matching symbols and 3 different symbols).
-- Reveal tokens_ **_to both players_**_. There is no hidden information._
-
-```
-Bonus spaces
-```
-## 2 matching Race symbols
-
-```
-As soon as you have 2 matching Race symbols,
-take the top 2 Alliance tokens of this Race
-and reveal them.
-Choose 1 to place in front of you; you may now
-benefit from its effect ( see the Player Aid ).
-Put the other token, facedown, on top
-of its stack.
-```
-## 3 different Race symbols
-
-```
-Once per game , when you have 3 different Race
-symbols, take the top Alliance token of each
-of these 3 Races and reveal them.
-Choose 1 to place in front of you; you may now
-benefit from its effect ( see the Player Aid ).
-Put the other 2 tokens, facedown, on top
-of their respective stacks.
-```
-```
-The Nazgûl’s
-starting space
-```
-# QUEST OF THE RING
-
-# RACE ALLIANCES
-
-## or
+- *A single Race symbol may be used for both conditions (2 matching symbols and 3 different symbols)*.
+- *Reveal tokens **to both players**. There is no hidden information*.
 
 
-## 2
+## CONQUERING MIDDLE - EARTH (page 7)
 
-## 3
-
-## 1
+> image of the central board  with 7 banner icons in diferent colours with the first arrow showing the *Fortress space*, second *Connection between two regions*, third *Unit space*, and fourth *Region banner*.
 
 When you place or move one or more Units, two situations are possible:
+- **If no enemy Unit is present:** nothing happens.
+- **If one or more enemy Units are present:** trigger a **conflict**. Each player removes one of their Units and places it back in front of them. Repeat this until at least one player has no more Units in the region.
 
-**If no enemy Unit is present:** nothing happens.
+*Note*: *An enemy Fortress does not trigger conflicts and does not prevent you from placing your Units in its region.
+Therefore, it is possible for both players to be present in the same region*.
 
-**If one or more enemy Units are present:** trigger a **conflict**. Each player removes one of their Units
-and places it back in front of them. Repeat this until at least one player has no more Units in the region.
+When you complete multiple movements, you may move the same Unit multiple times, or split your movement between multiple Units. For each movement, move a Unit to an adjacent region (one with a connection). You must complete each movement independently, resolving any conflict triggered, one at a time.
 
-_Note: An enemy Fortress does not trigger conflicts and does not prevent you from placing your Units in its region.
-Therefore, it is possible for both players to be present in the same region._
+> image of a purple card with 3 arrors at the upper part and 4 icons below, alongside a central board with an arror showing 3 movement from one unit space to another.
 
-```
-Fortress space
-```
-```
-Connection
-between
-two regions
-```
-```
-Unit space
-```
-```
-Region
-banner
-```
-# CONQUERING MIDDLE-EARTH
+*Example: You play a Purple card that provides 3 movements 1. The first lets you move a Unit from Enedwaith to Rohan 2.
+Since there is an enemy Unit present, you trigger a conflict and each player removes their Unit. You then use your second and third movements to send another Unit from Enedwaith to Mordor, passing through Rohan3*.
 
-## Example: You play a Purple card that provides 3 movements 1. The first lets you move a Unit from Enedwaith to Rohan^2.
-
-_Since there is an enemy Unit present, you trigger a conflict and each player removes their Unit. You then use_
-
-## your second and third movements to send another Unit from Enedwaith to Mordor, passing through Rohan^3.
-
-When you complete multiple movements, you may move the same Unit multiple times, or split your movement
-between multiple Units. For each movement, move a Unit to an adjacent region (one with a connection).
-You must complete each movement independently, resolving any conflict triggered, one at a time.
-
-
-Designers: **Antoine Bauza & Bruno Cathala** • Illustrator: **Vincent Dutrait**
-Credits and special thanks: [http://www.rprod.com/en/duel-for-middle-earth/credits](http://www.rprod.com/en/duel-for-middle-earth/credits)
-© MIDDLE-EARTH ENTERPRISES, LLC. ALL RIGHTS RESERVED.
-© REPOS PRODUCTION 2024. ALL RIGHTS RESERVED.
-Repos Production SA • Rue des Comédiens, 22 • 1000 Brussels – Belgium • [http://www.rprod.com](http://www.rprod.com)
-Middle-earth, The Lord of the Rings, and the characters, events, items and places therein, are TM
-of Middle-earth Enterprises, LLC and used under license by Asmodee North America, Inc. and Repos Production.
-Gamegenic and the Gamegenic logo are ® and © Gamegenic GmbH, Germany.
-This material may only be used for private entertainment.
-Follow us: @ReposProductionUS | @ReposProduction
-
+## END OF THE GAME (page 8)
 There are three immediate victory conditions:
 
-## Quest of the Ring
+### Quests of the Ring (page 8)
+For the Fellowship: If Frodo and Sam **reach Mount Doom** , they destroy the One Ring and you immediately win the game. 
+For Sauron: If the Nazgûl **catch Frodo and Sam**, they seize the One Ring and you immediately win the game.
 
-```
-For the Fellowship: If Frodo and Sam reach Mount Doom , they destroy the One Ring and you immediately
-win the game.
-For Sauron: If the Nazgûl catch Frodo and Sam , they seize the One Ring and you immediately win the game.
-```
-## Support of the Races
+### Support of the Races (page 8)
+If you gather **6 different Race symbols** on your **Green cards**, you rally the support of the Races of Middle-earth and immediately win the game.
 
-```
-If you gather 6 different Race symbols on your Green cards , you rally the support of the Races
-of Middle-earth and immediately win the game.
-Note: The Eagle symbol, present on one Alliance token, is an additional Race symbol that counts as 1 of the 6 required
-symbols for the Support of the Races victory.
-```
-## Conquering Middle-earth
+*Note: The Eagle symbol, present on one Alliance token, is an additional Race symbol that counts as 1 of the 6 required
+symbols for the Support of the Races victory*.
 
-```
-If you are present in all 7 regions (with a Fortress and/or at least 1 Unit), you dominate Middle-earth
-and immediately win the game.
-```
-If none of these three victory conditions are achieved by the end of chapter 3, the player who is **present in the most
-regions** of Middle-earth (with a Fortress and/or at least 1 Unit) wins the game. In case of tie, share the victory.
+### Conquering Middle-earth 
+If you are **present in all 7 regions** (with a Fortress and/or at least 1 Unit), you dominate Middle-earth and immediately win the game.
 
-# CREDITS
-
-# END OF THE GAME
+If none of these three victory conditions are achieved by the end of chapter 3, the player who is **present in the most regions** of Middle-earth (with a Fortress and/or at least 1 Unit) wins the game. In case of tie, share the victory.
 
