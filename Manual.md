@@ -11,7 +11,7 @@ Immediately win the game by fulfilling one of the 3 victory conditions:
 
 ## SETUP (page 2)
 
-> an image of a Quest of a Ring central board, a track below the board, Souran units on the right side of the board and Fellowship unit on the left side of the board, Alliance tokens directly at the upper part of the board, Landmark tiles directly above the Alliance tokens with a golden coins at each sides of the board. Each item on the board is numbered from 1-8  
+> an image of a Quest of the Ring central board, a track below the board, Souran units on the right side of the board and Fellowship unit on the left side of the board, Alliance tokens directly at the upper part of the board, Landmark tiles directly above the Alliance tokens with a golden coins at each sides of the board. Each item on the board is numbered from 1-8  
 
 1. Choose, or randomly determine, who will play as the Fellowship and who will play as Sauron. Place your respective **Unit and Fortress pawns** in front of you.
 
