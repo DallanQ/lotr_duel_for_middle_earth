@@ -9,6 +9,20 @@ Immediately win the game by fulfilling one of the 3 victory conditions:
 -  rally the support of 6 different Races, 
 -  conquer Middle-earth.
 
+## CONTENTS (page 1)
+
+### **Colorblind symbols (page 1)
+
+To accommodate every type of colorblindness, each card color in the game has a corresponding symbol:
+- (image of a rhombus) Grey
+- (image of a circle) Yellow
+- (image of an upright rectangle) Blue
+- (image of a triangle) Green
+- (image of a X) Red
+- (image of a star) Purple
+
+> image of a green card with a Ents icon on the upper part of the card, with a white square and a upright rectangle symbol on it.
+
 ## SETUP (page 2)
 
 > an image of a Quest of the Ring central board, a track below the board, Souran units on the right side of the board and Fellowship unit on the left side of the board, Alliance tokens directly at the upper part of the board, Landmark tiles directly above the Alliance tokens with a golden coins at each sides of the board. Each item on the board is numbered from 1-8  
@@ -21,7 +35,7 @@ Immediately win the game by fulfilling one of the 3 victory conditions:
 
 4. Assemble the **Quest of the Ring track** as shown in the diagram to the right,and place it below the central board.
    
-> image of an arrow facing downwards showing how the track pieces fit together. 
+> image of a 2 cardboard piece fit together with the big Plastic Frodo and Sam piece with the gold ring and a small Nazgûl piece with a black ring which fits on top of Frodo and Sam. 
 
 5. The Fellowship player takes **3 Coins** while the Sauron player takes **2 Coins**.Then make a **reserve** with the remaining Coins.
 
