@@ -11,7 +11,7 @@ Immediately win the game by fulfilling one of the 3 victory conditions:
 
 ## CONTENTS (page 1)
 
-### **Colorblind symbols (page 1)
+### **Colorblind symbols** (page 1)
 
 To accommodate every type of colorblindness, each card color in the game has a corresponding symbol:
 - (image of a rhombus) Grey
@@ -49,9 +49,13 @@ To accommodate every type of colorblindness, each card color in the game has a c
 
 ### Preparing a chapter (page 3)
 
-At the start of each chapter (1, 2, then 3), place cards from the corresponding chapter **in the central play area**, following the diagram below (reminder on the sides of the box). Be careful, since certain cards are placed faceup and others facedown. Place the 3 remaining cards, facedown, in the discard.
+At the start of each chapter (1, 2, then 3), place cards from the corresponding chapter **in the central play area**, following the diagram below (*reminder on the sides of the box*). Be careful, since certain cards are placed faceup and others facedown. Place the 3 remaining cards, facedown, in the discard.
 
-> image of a tan and dark brown cards arranged in 3 sections. First in, upward pyramid form, second in downward pyramid form and thirdly both small upward and and downward pyramid form. Each arranged card is labelled chapter 1-3. 
+> image of a tan, brown cards arranged in pyramid form. Labeled at the upper part is *chapter 1*. Its arranged 2 tan Faceup cards, followed by 3 brown Facedown cards, followed by 4 tan Faceup cards, followed by 5 brown Facedown cards, followed by 6 tan Faceup cards.
+
+> image of a tan, brown cards arranged in a downward pyramid form. Labeled at the upper part is *chapter 2*. Its arranged 6 tan Faceup cards, followed by 5 brown Facedown cards, followed by 4 tan Faceup cards, followed by 3 brown Facedown cards , followed by 2 tan Facedup cards.
+
+>
 
 ### Turn overview (page 3)
 
