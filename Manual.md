@@ -21,7 +21,7 @@ To accommodate every type of colorblindness, each card color in the game has a c
 - (image of a X) Red
 - (image of a star) Purple
 
-> image of a green card with a Ents icon on the upper part of the card, with a white square and a upright rectangle symbol on it.
+> image of a green card with an Ents icon on the upper part of the card, with a white square and a upright rectangle symbol on it.
 
 ## SETUP (page 2)
 
