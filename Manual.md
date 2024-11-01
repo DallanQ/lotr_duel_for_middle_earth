@@ -241,7 +241,7 @@ If you gather **6 different Race symbols** on your **Green cards**, you rally th
 *Note: The Eagle symbol, present on one Alliance token, is an additional Race symbol that counts as 1 of the 6 required
 symbols for the Support of the Races victory*.
 
-### Conquering Middle-earth 
+### Conquering Middle-earth (page 8)
 If you are **present in all 7 regions** (with a Fortress and/or at least 1 Unit), you dominate Middle-earth and immediately win the game.
 
 If none of these three victory conditions are achieved by the end of chapter 3, the player who is **present in the most regions** of Middle-earth (with a Fortress and/or at least 1 Unit) wins the game. In case of tie, share the victory.
