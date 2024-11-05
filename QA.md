@@ -71,9 +71,18 @@ Yes, opponent Fortresses and units may coexist, just opponent units get into con
 
 [nazgul-and-bonus-spaces](https://boardgamegeek.com/thread/3352666/nazgul-and-bonus-spaces)
 
+> If the Frodo&Sam Marker advances and this results the Nazgul Go reach a Bonus space, will the Sauron Player gets the Bonus?
+
+No, that won't happen. The Nazgul player track spaces aren't translucent and will cover/nullify the ones on the fellowship track. In other words, both tracks have the same spaces and bonuses, move together but they remain independent. The fellowship track is printed on the cardboard and the Nazgul one on the acrylic, so over the "chasing flavor" they act separately.
+
 [dutch-rules-clarification-placing-and-moving-units](https://boardgamegeek.com/thread/3391923/dutch-rules-clarification-placing-and-moving-units)
 
-[does-sauron-wins-bonus-when-frodo-advances](https://boardgamegeek.com/thread/3391818/does-sauron-wins-bonus-when-frodo-advances)
+[does-sauron-wins-bonus-when-frodo-advances](https://boardgamegeek.com/thread/3391818/does-sauron-wins-bonus-when-frodo-
+advances)
+
+> can Sauron player win Quest track bonus when Frodo player advances?
+
+The tracks are overlaid but Sauron's is printed on the acrylic overlay and Sam/Frodo's is printed on the actual board. The bonus one player receives doesn't trigger at the same time as another, they're independent.
 
 [are-components-limited](https://boardgamegeek.com/thread/3385297/are-components-limited)
 
@@ -83,13 +92,42 @@ Yes, opponent Fortresses and units may coexist, just opponent units get into con
 
 [unable-to-take-turn](https://boardgamegeek.com/thread/3390429/unable-to-take-turn)
 
+> What happens if a player doesn’t have the ressources to take a card from the pool?
+
+"Discard the card
+Place the card, facedown, in the discard
+and take as many Coins from the reserve
+as the current chapter:
+Chapter 1: 1 Coin
+Chapter 2: 2 Coins
+Chapter 3: 3 Coins"
+
 [grey-havens-and-race-alliances](https://boardgamegeek.com/thread/3391673/grey-havens-and-race-alliances)
 
 [army-limit-and-placement-timing](https://boardgamegeek.com/thread/3385733/army-limit-and-placement-timing)
 
+> I have 2 armies in supply and able to place 3. The area I want to place in contains 2 Enemy units. Can I place 2, killing both them and me and then add one more from one of the two just removed? Or After I placed the two, I'm done placing?
+
+The number of armies in supply is not supposed to be limited, therefore you would need to use a dice or token or something to represent your missing army piece until you could switch it out for an actual piece, in this example though the suitable replacement piece would be on the board for literally a second as its just going to get removed/replaced instantly. Place all 3 (2 pieces and 1 suitable replacement piece), killing 2 enemy units and 2 of your own, leave 1 piece on the board and return 1 to your supply, completely removing the suitable replacement piece as its no longer required.
+
 [overpowered-elf-human-alliance-power-combos](https://boardgamegeek.com/thread/3380273/overpowered-elf-human-alliance-power-combos)
 
+> Do landmarks refill  until the end of the round?
+
+The rulebook says "Finally, end your turn without revealing a new tile."
+
 [do-you-have-to-play-your-race-tokens-immediately](https://boardgamegeek.com/thread/3387242/do-you-have-to-play-your-race-tokens-immediately)
+
+> When you pick and play a race token it says that you may benefit from its effect. Does that mean:
+1) You may choose to not benefit from its effect when played but do so later.
+Or
+2) You can choose to benefit from its effect or not after you play it, but you have to choose to immediately play it?
+
+Applying the effect of a race token is not obligatory.
+
+If it's a Wizard or Ent token, you perform the effect once as soon as you get it (you can't choose to use it later), thereafter it has no effect.
+
+For all the others you benefit from the effect from then on, every time. (e.g take another turn after you build a landmark will apply every time.)
 
 [with-the-gray-havens-effect-can-you-use-the-token](https://boardgamegeek.com/thread/3381543/with-the-gray-havens-effect-can-you-use-the-token)
 
