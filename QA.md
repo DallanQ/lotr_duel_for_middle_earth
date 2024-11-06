@@ -189,7 +189,7 @@ Each player can do this once. Alliance tokens gain is at individual basis, not c
 
 > Are effects and bonuses (let’s say on a landmark tile) resolved in any order?
 
-1).Whatever effects are triggered during the current turn, you have to resolve them during the current turn - in any order you want.
+1) Whatever effects are triggered during the current turn, you have to resolve them during the current turn - in any order you want.
 
 2) With the single exception being "take another turn" effects - you just have to wait until you resolve all other effects, then you can take that additional turn (that's because all "take another turn" effects have an explicit condition that you have to finish the current turn first).
 
