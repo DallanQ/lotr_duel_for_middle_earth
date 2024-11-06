@@ -80,7 +80,7 @@ No, that won't happen. The Nazgul player track spaces aren't translucent and wil
 [does-sauron-wins-bonus-when-frodo-advances](https://boardgamegeek.com/thread/3391818/does-sauron-wins-bonus-when-frodo-
 advances)
 
-> can Sauron player win Quest track bonus when Frodo player advances?
+> Can Sauron player win Quest track bonus when Frodo player advances?
 
 The tracks are overlaid but Sauron's is printed on the acrylic overlay and Sam/Frodo's is printed on the actual board. The bonus one player receives doesn't trigger at the same time as another, they're independent.
 
@@ -98,8 +98,8 @@ The tracks are overlaid but Sauron's is printed on the acrylic overlay and Sam/F
 Place the card, facedown, in the discard
 and take as many Coins from the reserve
 as the current chapter:
-Chapter 1: 1 Coin
-Chapter 2: 2 Coins
+Chapter 1: 1 Coin,
+Chapter 2: 2 Coins,
 Chapter 3: 3 Coins"
 
 [grey-havens-and-race-alliances](https://boardgamegeek.com/thread/3391673/grey-havens-and-race-alliances)
