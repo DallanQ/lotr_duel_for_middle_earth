@@ -162,7 +162,7 @@ You only add the leftover cards to the discard after preparing that chapter.
 
 [is-movement-optional-plus-tiebreaker-commentary](https://boardgamegeek.com/thread/3383214/is-movement-optional-plus-tiebreaker-commentary)
 
-> 1) Is unit movement (on purple cards, landmarks, etc) REQUIRED or optional?
+> Is unit movement (on purple cards, landmarks, etc) REQUIRED or optional?
 
 Abilities on Alliance tokens (which includes multiple abilities related to movement) and on the Quest track were officially confirmed to be optional.
 
@@ -174,19 +174,49 @@ Abilities on Alliance tokens (which includes multiple abilities related to movem
 
 [is-another-turn-mandatory-with-token](https://boardgamegeek.com/thread/3388203/is-another-turn-mandatory-with-token)
 
+> If you own the token where you have another turn after playing a yellow card, is this obligatory or can you deliberately forfeit the next turn?
+
+It's optional. You MAY trigger it if earned.
+
 [gaining-alliance-tokens](https://boardgamegeek.com/thread/3380631/gaining-alliance-tokens)
 
+> A question on choosing an alliance token when having 3 different race symbols:
+Does "once per game" mean "once per player per game" or really "once per game"?
+
+Each player can do this once. Alliance tokens gain is at individual basis, not collectively basis. This is true in other aspects of the game, like the Landmarks coins increase cost per Fortress own.
+
 [resolution-of-effects](https://boardgamegeek.com/thread/3385606/resolution-of-effects)
+
+> Are effects and bonuses (let’s say on a landmark tile) resolved in any order?
+
+1).Whatever effects are triggered during the current turn, you have to resolve them during the current turn - in any order you want.
+
+2) With the single exception being "take another turn" effects - you just have to wait until you resolve all other effects, then you can take that additional turn (that's because all "take another turn" effects have an explicit condition that you have to finish the current turn first).
 
 [alliance-tokens-powers](https://boardgamegeek.com/thread/3353117/alliance-tokens-powers)
 
 [fallback-consequence-for-losing-money-if-broke](https://boardgamegeek.com/thread/3381134/fallback-consequence-for-losing-money-if-broke)
 
+> There are purple cards and other effects which cause your opponent to lose coins, but what if your opponent doesn't have any coins?
+
+Cards having fluctuating value/power isn't unique to removal effects, and deciding what to do about cards that are currently weak for you but better for your opponent is a pretty core element of the game.
+
 [removing-fortress](https://boardgamegeek.com/thread/3390923/removing-fortress)
+
+> The rules say : "An opposing fortress does not trigger a conflict and does not prevent you from placing your Units in the same region. It is therefore possible for both players to be present in the same region. "
+So, Is there a conflict in this case, when a fortress is removed from a region where units from both sides are present ?
+
+The rules say "it is possible for both players to be present in the same region." This is because a "fortress" does not engage in combat, so you could have a Fellowship "fortress" and Sauron units (i.e. soldiers) in a single region, thus both players being present in one region. A "fortress" does not allow soldiers from both sides to be present in a single region. Removing a fortress has no effect other than one player losing the fortress.
 
 [purchasing-landmark-tiles-a-question](https://boardgamegeek.com/thread/3377732/purchasing-landmark-tiles-a-question)
 
 [what-happens-if-you-get-two-extra-turns-in-the-sam](https://boardgamegeek.com/thread/3386845/what-happens-if-you-get-two-extra-turns-in-the-sam)
+
+>  What happens if you get two extra turns in the same turn?
+Example: I have the token where yellow cards move the ring + yellow cards give me an extra turn. Now, when I buy the yellow card, I also move the ring onto the extra turn symbol on the ring track. Thus given me 1 extra turn from the track and one extra turn from playing a yellow card.
+
+You get only 1 extra turn.
+You cannot add extra turns.
 
 [the-game-can-end-in-a-tie](https://boardgamegeek.com/thread/3385798/the-game-can-end-in-a-tie)
 
