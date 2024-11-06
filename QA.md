@@ -133,17 +133,38 @@ For all the others you benefit from the effect from then on, every time. (e.g ta
 
 [effects-on-quest-of-the-ring-track-and-alliance-to](https://boardgamegeek.com/thread/3353445/effects-on-quest-of-the-ring-track-and-alliance-to)
 
+> Almost all effects in the game are no-brainers, but one of them ("immediately take another turn") is not always beneficial. Due to vague wording in the rulebook I wonder - are they obligatory or optional?
+
+Effects on the Ring track
+Rulebook p. 6, "Quest of the Ring" section:
+"When you reach or pass a Bonus space, you may immediately benefit from its effect."
+
+Effects on the Alliance tokens :- Rulebook p. 6, "Race alliances" section:
+"Choose 1 to place in front of you; you may now benefit from its effect (see the Player Aid)."
+
 [question-about-the-quest-of-the-ring](https://boardgamegeek.com/thread/3384689/question-about-the-quest-of-the-ring)
 
 [adding-more-troops-than-i-have-left](https://boardgamegeek.com/thread/3383181/adding-more-troops-than-i-have-left)
+
+> I have one question about adding more troops than I have still in my stock. If I need to add two of them, but I have only one left, I just simply add one or maybe I can move the second one from region to different region?
+
+No it can happen. I played it three times and it happend in one of them. If youre gonna go heavy in winning by controling the seven spots the two first rounds. The problem is that it is first in the last round you have the easiest moving the trops around.
 
 [wich-cards-belong-to-the-discard-pile](https://boardgamegeek.com/thread/3382902/wich-cards-belong-to-the-discard-pile)
 
 [barad-dur-allows-to-build-a-card-from-a-later-chap](https://boardgamegeek.com/thread/3389047/barad-dur-allows-to-build-a-card-from-a-later-chap)
 
+> Do you add 3 cards from each chapter to the discard at the start of the game or when setting up the display for that chapter?
+
+You only add the leftover cards to the discard after preparing that chapter.
+
 [multiple-pairs-of-alliance-icons](https://boardgamegeek.com/thread/3381175/multiple-pairs-of-alliance-icons)
 
 [is-movement-optional-plus-tiebreaker-commentary](https://boardgamegeek.com/thread/3383214/is-movement-optional-plus-tiebreaker-commentary)
+
+> 1) Is unit movement (on purple cards, landmarks, etc) REQUIRED or optional?
+
+Abilities on Alliance tokens (which includes multiple abilities related to movement) and on the Quest track were officially confirmed to be optional.
 
 [is-the-discard-pile-hidden-information](https://boardgamegeek.com/thread/3389028/is-the-discard-pile-hidden-information)
 
