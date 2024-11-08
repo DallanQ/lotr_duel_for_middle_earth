@@ -70,7 +70,7 @@ When you ply a Yellow card, take anotherturn after finishing this one.
 
 When you play a Red card, you may place all of the concerned Units in any 1 of the 7 regions.
 
-> image of 5 skills icons arranged in a circular form
+> image of 5 Skills icons arranged in a circular form
 
 Once per turn, benefit from any Skill.
 
@@ -80,7 +80,7 @@ Once per turn, benefit from any Skill.
 
 When you play a Landmark tile, ignore the additional Coin cost.
 
-> image of  Land mark tile with an arrow on it moving in a clockwise direction
+> image of  Landmark tile with an arrow on it moving in a clockwise direction
 
 When you play a Landmark tile, take another turn after finishing this one.
 
