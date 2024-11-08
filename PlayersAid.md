@@ -12,7 +12,7 @@
 (image of a vulcano) The Fellowship of the Ring player immediately wins the game.
 
 ## LANDMARK EFFECTS (page 1)
-> image of a fortress with an arrow poing right to a brown region banner which is Mordor and a stack of cards with an arror pointing to a card with a red X on it.
+> image of a fortress with an arrow pointing right to a brown region banner which is Mordor and a stack of cards with an arror pointing to a card with a red X on it.
 
 ### BARAD-DUR (Page 1)
 Place 1 Fortress in **Mordor**.
