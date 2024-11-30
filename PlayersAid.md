@@ -15,8 +15,7 @@
 
 ### BARAD-DUR (page 1)
 
-Place 1 Fortress in **Mordor**.
-(image of a fortress with an arrow pointing right to a brown region banner for Mordor and a stack of cards with an arror pointing to a card with a red X on it.) Take all the cards in the discard, secretly choose 1, and play it for free. 
+(image of a fortress with an arrow pointing right to a brown region banner for Mordor and a stack of cards with an arror pointing to a card with a red X on it.) Place 1 Fortress in **Mordor**. Take all the cards in the discard, secretly choose 1, and play it for free. 
 
 ### BREE (page 1)
 
@@ -54,7 +53,7 @@ when you gain them.*
 
 ## RACE EFFECTS (page 2)
 
-###ELVES (page2)
+### ELVES (page2)
 
 >Elf icon that looks like a crystal vial.
 
