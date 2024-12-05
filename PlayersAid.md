@@ -7,15 +7,15 @@
 
 (image of a fortress icon with a red X on it)  Remove 1 enemy Fortress from any region and return it to your opponent.
 
-(image of a yellow circle)) The Sauron player immediately wins the game.
+(image of a yellow circle) The Sauron player immediately wins the game.
 
-(image of a vulcano) The Fellowship of the Ring player immediately wins the game.
+(image of a volcano) The Fellowship of the Ring player immediately wins the game.
 
 ## LANDMARK EFFECTS (page 1)
 
-### BARAD-DUR (page 1)
+### BARAD-DÛR(page 1)
 
-(image of a fortress with an arrow pointing right to a brown region banner for Mordor and a stack of cards with an arror pointing to a card with a red X on it.) Place 1 Fortress in **Mordor**. Take all the cards in the discard, secretly choose 1, and play it for free. 
+(image of a fortress with an arrow pointing right to a brown region banner for Mordor and a stack of cards with an arrow pointing to a card with a red X on it.) Place 1 Fortress in **Mordor**. Take all the cards in the discard, secretly choose 1, and play it for free. 
 
 ### BREE (page 1)
 
@@ -28,14 +28,14 @@ Complete 2 movements on the central board.
 Take 5 Coins from the reserve.
 Complete 1 movement on the central board.
 
-### GREY HEAVENS (page 1)
+### GREY HAVENS (page 1)
 
 (image of a fortress icon with an arrow pointing to a blue region banner for Lindon, and a green badge.) Place 1 Fortress in **Lindon**.
 Take the top 2 tokens of any Race and reveal them. Choose 1 to place in front of you. Put the second token, facedown, on top of its stack.
 
 ### HELM'S DEEP (page 1)
 
-(image of a fortress icon, an Unit icon with 3 on it with an arrow pointing to a green region banner for Rohan.)Place 1 Fortress and 3 Units in **Rohan**.
+(image of a fortress icon, an Unit icon with 3 on it with an arrow pointing to a green region banner for Rohan.) Place 1 Fortress and 3 Units in **Rohan**.
 
 ### ISENGARD (page 1)
 
@@ -53,11 +53,11 @@ when you gain them.*
 
 ## RACE EFFECTS (page 2)
 
-### ELVES (page2)
+### ELVES (page 2)
 
->Elf icon that looks like a crystal vial.
+> Elf icon that looks like a crystal vial.
 
-(image of a Yellow card with an arrow curving in a clockwise diretion.) When you play a Yellow card, take another turn after finishing this one.
+(image of a Yellow card with an arrow curving in a clockwise direction.) When you play a Yellow card, take another turn after finishing this one.
 
 (image of Red card with an X at the upper part and a gray box in the middle.) When you play a Red card, you may place all of the concerned Units in any 1 of the 7 regions.
 
@@ -77,7 +77,7 @@ when you gain them.*
 
 > Hobbit icon that looks like a pipe.
 
-(image of a feather." The Eagle symbol is an additional Race symbol that counts as 1 of the 6 required for the Support of the Races victory.
+(image of a feather.) The Eagle symbol is an additional Race symbol that counts as 1 of the 6 required for the Support of the Races victory.
 
 (image of a Blue card with an upright yellow rectangle at the upper middle, a unit icon with a 1 on it in the middle.) When you play a Blue card, also place 1 Unit in any region.
 
