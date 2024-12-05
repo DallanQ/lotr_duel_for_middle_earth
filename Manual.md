@@ -43,7 +43,7 @@ To accommodate every type of colorblindness, each card color in the game has a c
 
 7. Shuffle the **Landmark tiles** and place 3, faceup, on the table. Make a stack, facedown, with the remaining tiles.
 
-8. Sort the **Chapter cards** into 3 decks according to the runes on their backs P (1), R (2), q (3), then shuffle each deck seperately.
+8. Sort the **Chapter cards** into 3 decks according to the runes on their backs P (1), R (2), q (3), then shuffle each deck separately.
  
 ## CHAPTER OVERVIEW (page 3)
 
@@ -55,7 +55,7 @@ At the start of each chapter (1, 2, then 3), place cards from the corresponding 
 
 > image of tan and brown cards arranged in a downward pyramid form. Labeled at the upper part is *chapter 2*. Its arranged 6 tan Faceup cards at the top, followed by 5 brown Facedown cards under them, followed by 4 tan Faceup cards, followed by 3 brown Facedown cards, followed by 2 tan Faceup cards.
 
-> image of tan and brown cards arranged in a form of a ring. Labeled at the upper part is *chapter 3*. Its arranged 2 tan Faceup cards, follwed by 3 brown Facedown cards under them, followed by 4 tan Faceup cards, followed by 2 brown Facedown cards, followed by 4 tan Faceup cards, followed by 3 brown Facedown cards, followed by 2 tan Faceup cards.
+> image of tan and brown cards arranged in a form of a ring. Labeled at the upper part is *chapter 3*. Its arranged 2 tan Faceup cards, followed by 3 brown Facedown cards under them, followed by 4 tan Faceup cards, followed by 2 brown Facedown cards, followed by 4 tan Faceup cards, followed by 3 brown Facedown cards, followed by 2 tan Faceup cards.
 
 ### Turn overview (page 3)
 
@@ -63,7 +63,7 @@ The Sauron player begins the game, then both players **take turns**, until the e
 
 #### A. Take a Chapter card (page 3)
 
-From the central play area, choose an **available** card, meaning one that is not partially covered by any other cards. Then, play it in front of you or discard it.
+From the central play area, choose an **available** card, meaning one that is not partially covered by any other cards. Then, play it in front of you **or** discard it.
 
 > image of tan and brown cards arranged in rows. 3 brown Facedown cards at the first row, followed by 4 tan Faceup cards at the second row. On the third row is 1 tan Faceup card with a check, followed by 2 brown Facedown cards, followed by 1 tan Faceup card with a green check, followed by 1 brown Facedown card. The fourth row has a tan Faceup card inbetween 2 brown cards, followed by a tan card at the far right corner. The tan card with the green check is the Available card.
 
@@ -129,7 +129,7 @@ and/or Coin cost.*
 
 *Example:*
 
-> image of a red card with a white square at the upper right with a chaining symbol labled 2. With a white rectangle at the middle of the card labeled 1
+> image of a red card with a white square at the upper right with a chaining symbol labeled 2. With a white rectangle at the middle of the card labeled 1
 
 *In chapter 1, you play this card for free (1).
 *In addition to its effect (see page 5), it has a chaining symbol (2)*.
@@ -173,7 +173,7 @@ Choose **one of the two regions** shown by the banners and place **all Units** i
 
 - **Landmark tiles** immediately let you place Fortresses in regions of Middle-earth (see page 7) and benefit from unique effects *(see the Player Aid)*.
 
-> image of a fortress with an arrow pointing to a brown banner. With an arror followed by the words "*Region where you may place a Fortress*"
+> image of a fortress with an arrow pointing to a brown banner. With an arrow followed by the words "*Region where you may place a Fortress*"
 
 ## QUEST OF THE RING (page 6)
 
@@ -193,7 +193,7 @@ and Sam move, the Nazgûl automatically moves as well. In other words, the dista
 
 During the game, you may form alliances with the Races of Middle-earth. To do this, in your play area, play **Green cards** with matching or different Race symbols, according to the following conditions:
 
-##### MARCHING RACE SYMBOLS (page 6)
+##### 2 MATCHING RACE SYMBOLS (page 6)
 
 As soon as you have 2 matching Race symbols, take the top 2 Alliance tokens of this Race and **reveal them**.
 Choose 1 to place in front of you; you may now benefit from its effect (*see the Player Aid*). Put the other token, facedown, on **top** of its stack.
@@ -201,6 +201,7 @@ Choose 1 to place in front of you; you may now benefit from its effect (*see the
 **or**
 
 ##### 3 DIFFERENT RACE SYMBOLS (page 6)
+
 **Once per game**, when you have 3 different Race symbols, take the top Alliance token of each of these 3 Races and **reveal them**. Choose 1 to place in front of you; you may now benefit from its effect (*see the Player Aid*).
 Put the other 2 tokens, facedown, on **top** of their respective stacks.
 
@@ -212,7 +213,7 @@ Put the other 2 tokens, facedown, on **top** of their respective stacks.
 
 ## CONQUERING MIDDLE - EARTH (page 7)
 
-> image of the central board with 7 banner icons in diferent colours with the first arrow pointing to the *Fortress space*, second arrow pointing to *Connection between two regions*, third arrow pointing to *Unit space*, and fourth arrow pointing to *Region banner*.
+> image of the central board with 7 banner icons in different colours with the first arrow pointing to the *Fortress space*, second arrow pointing to *Connection between two regions*, third arrow pointing to *Unit space*, and fourth arrow pointing to *Region banner*.
 
 When you place or move one or more Units, two situations are possible:
 - **If no enemy Unit is present:** nothing happens.
@@ -223,25 +224,29 @@ Therefore, it is possible for both players to be present in the same region*.
 
 When you complete multiple movements, you may move the same Unit multiple times, or split your movement between multiple Units. For each movement, move a Unit to an adjacent region (one with a connection). You must complete each movement independently, resolving any conflict triggered, one at a time.
 
-> image of a purple card with 3 arrors at the upper part labeled 1, along side a central board with s grey unit labeled 2 is shown to move to an adjacent Unit space containing a brown Unit. Both the grey unit and brown unit have X's on them. Another grey Unit has an arrow labeled  3 showing the unit moving 2 spaces. 
+> image of a purple card with 3 arrows at the upper part labeled 1, along side a central board with s grey unit labeled 2 is shown to move to an adjacent Unit space containing a brown Unit. Both the grey unit and brown unit have X's on them. Another grey Unit has an arrow labeled  3 showing the unit moving 2 spaces. 
 
 *Example: You play a Purple card that provides 3 movements (1). The first lets you move a Unit from Enedwaith to Rohan (2).
 Since there is an enemy Unit present, you trigger a conflict and each player removes their Unit. You then use your second and third movements to send another Unit from Enedwaith to Mordor, passing through Rohan (3)*.
 
 ## END OF THE GAME (page 8)
+
 There are three immediate victory conditions:
 
-### Quests of the Ring (page 8)
-For the Fellowship: If Frodo and Sam **reach Mount Doom** , they destroy the One Ring and you immediately win the game. 
+### Quest of the Ring (page 8)
+
+For the Fellowship: If Frodo and Sam **reach Mount Doom**, they destroy the One Ring and you immediately win the game. 
 For Sauron: If the Nazgûl **catch Frodo and Sam**, they seize the One Ring and you immediately win the game.
 
 ### Support of the Races (page 8)
+
 If you gather **6 different Race symbols** on your **Green cards**, you rally the support of the Races of Middle-earth and immediately win the game.
 
 *Note: The Eagle symbol, present on one Alliance token, is an additional Race symbol that counts as 1 of the 6 required
 symbols for the Support of the Races victory*.
 
 ### Conquering Middle-earth (page 8)
+
 If you are **present in all 7 regions** (with a Fortress and/or at least 1 Unit), you dominate Middle-earth and immediately win the game.
 
 If none of these three victory conditions are achieved by the end of chapter 3, the player who is **present in the most regions** of Middle-earth (with a Fortress and/or at least 1 Unit) wins the game. In case of tie, share the victory.
