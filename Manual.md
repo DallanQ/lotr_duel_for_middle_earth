@@ -182,8 +182,7 @@ Choose **one of the two regions** shown by the banners and place **all Units** i
 When you advance on the Quest of the Ring track, slide your character (Frodo and Sam for the Fellowship or the Nazgûl for Sauron) from space to space.
 When you **reach or pass** a Bonus space, you may immediately benefit from its effect (*see the Player Aid*).
 
-*Note: The piece that represents the Nazgûl is placed on top of the piece that represents Frodo and Sam. Therefore, when Frodo
-and Sam move, the Nazgûl automatically moves as well. In other words, the distance between the characters will only decrease, never increase*.
+*Note: The piece that represents the Nazgûl is placed on top of the piece that represents Frodo and Sam. Therefore, when Frodo and Sam move, the Nazgûl automatically moves as well. In other words, the distance between the characters will only decrease, never increase*.
 
 > image of a blue card with 2 gold rings on the upper part labelled 1, followed by an image of the ring track labeled number 2 and an image of the coin on the track labeled number 3. The One Ring "Yellow circle" has arrows indicating a sequence of moves. Frodo and Sam are positioned above the yellow circle.
 
@@ -242,8 +241,7 @@ For Sauron: If the Nazgûl **catch Frodo and Sam**, they seize the One Ring and 
 
 If you gather **6 different Race symbols** on your **Green cards**, you rally the support of the Races of Middle-earth and immediately win the game.
 
-*Note: The Eagle symbol, present on one Alliance token, is an additional Race symbol that counts as 1 of the 6 required
-symbols for the Support of the Races victory*.
+*Note: The Eagle symbol, present on one Alliance token, is an additional Race symbol that counts as 1 of the 6 required symbols for the Support of the Races victory*.
 
 ### Conquering Middle-earth (page 8)
 
